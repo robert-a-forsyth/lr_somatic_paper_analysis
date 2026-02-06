@@ -1,0 +1,36 @@
+#cluster_id	type	Junction_type	SVs	SV_count	genome_ids	
+severus_0	complex	HT:2 ,TT:2 ,HH:2 	DEL:2 ,dup_inv_segment:2 ,foldback:1 ,BND:1 	6	COLO829-ONT_tumor.bam	
+severus_1	complex	HH:1 ,TT:3 	complex_inv:3 ,BND:1 	4	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_2	complex	HT:2 ,Interchr:2 	DEL:2 ,BND:2 	4	COLO829-ONT_tumor.bam	
+severus_3	complex	TT:2 ,HH:1 ,HT:1 	BND:2 ,dup_inv_segment:1 ,DEL:1 	4	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_4	complex	HH:2 ,TT:1 	BND:1 ,reciprocal_inv_del:2 	3	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_5	complex	HT:4 	DEL:4 	4	COLO829-ONT_tumor.bam	
+severus_6	complex	Interchr:2 	Templated_ins:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_7	complex	TH:1 ,HT:2 	tandem_duplication:1 ,DEL:2 	3	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_8	complex	TT:1 ,HH:1 	BND:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_9	complex	HH:2 ,TT:2 	complex_inv:4 	4	COLO829-ONT_normal.bam	
+severus_10	complex	HT:2 	DEL:2 	2	COLO829-ONT_tumor.bam	
+severus_11	complex	HT:2 	BND:1 ,DEL:1 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_12	complex	HT:2 ,TH:1 	DEL:2 ,DUP:1 	3	COLO829-ONT_tumor.bam	
+severus_13	complex	TT:1 ,HT:1 	foldback:1 ,DEL:1 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_14	complex	HH:1 ,TT:1 ,HT:1 	BND:1 ,foldback:1 ,DEL:1 	3	COLO829-ONT_tumor.bam	
+severus_15	complex	TT:1 ,HH:1 	dup_inv_segment:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_16	complex	HH:1 ,TT:1 	reciprocal_inv_del:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_17	complex	TT:1 ,HT:1 	BND:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_18	complex	HH:2 ,TT:1 	reciprocal_inv_del:2 ,BND:1 	3	COLO829-ONT_normal.bam	
+severus_19	complex	TT:1 ,HH:2 	complex_inv:3 	3	COLO829-ONT_normal.bam	
+severus_20	complex	Interchr:3 	BND:3 	3	COLO829-ONT_tumor.bam	
+severus_21	complex	HH:2 ,Interchr:1 	inv_tra:2 ,foldback:1 	3	COLO829-ONT_tumor.bam	
+severus_22	complex	HH:1 ,TT:1 ,HT:1 	dup_inv_segment:2 ,BND:1 	3	COLO829-ONT_tumor.bam	
+severus_23	complex	HH:1 ,TT:1 	reciprocal_inv_del:2 	2	COLO829-ONT_tumor.bam	
+severus_25	complex	Interchr:1 ,TT:1 	BND:2 	2	COLO829-ONT_tumor.bam	
+severus_26	complex	HH:1 ,TT:1 	dup_inv_segment:2 	2	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam	
+severus_27	complex	Interchr:2 	Templated_ins:2 	2	COLO829-ONT_tumor.bam	
+severus_28	complex	HH:1 ,TT:1 	reciprocal_inv_del:2 	2	COLO829-ONT_tumor.bam	
+severus_30	complex	HT:2 	DEL:1 ,BND:1 	2	COLO829-ONT_tumor.bam	
+severus_32	complex	HH:1 ,TT:1 	BND:1 ,foldback:1 	2	COLO829-ONT_tumor.bam	
+severus_34	complex	TT:1 ,HH:1 	reciprocal_inv_del:2 	2	COLO829-ONT_tumor.bam	
+severus_38	complex	HT:2 	BND:2 	2	COLO829-ONT_normal.bam	
+severus_39	complex	TT:1 ,HH:1 	BND:1 ,foldback:1 	2	COLO829-ONT_normal.bam	
+severus_40	complex	Interchr:2 	Templated_ins:2 	2	COLO829-ONT_tumor.bam	
+severus_42	complex	Interchr:1 ,HH:1 	BND:2 	2	COLO829-ONT_tumor.bam	

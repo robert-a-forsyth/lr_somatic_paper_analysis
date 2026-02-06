@@ -1,0 +1,97 @@
+#cluster_id	adj_1-tadj_2	read_support	vaf	genotype	sv_type	det_sv_type	direction	bnd	phaseblock	genome_ids
+severus_0	+chr7:126527390|+chr7:144239439	26	0.2708333333333333	het	BND	dup_inv_segment	HH/TT	intra	(128517973, 147317761)	COLO829-ONT_tumor.bam
+severus_0	-chr7:144239441|-chr7:144240113	22	0.21153846153846154	het	BND	foldback	HH/TT	intra	(147317761, 147317761)	COLO829-ONT_tumor.bam
+severus_0	+chr7:144262133|-chr7:144391700	28	0.358974358974359	het	DEL		HT	intra	(147317761, 147317761)	COLO829-ONT_tumor.bam
+severus_0	-chr7:126458433|-chr7:126527386	27	0.375	het	BND	dup_inv_segment	HH/TT	intra	(128517973, 128517973)	COLO829-ONT_tumor.bam
+severus_0	+chr7:144241253|+chr7:144393372	25	0.27472527472527475	hom	BND	None	HH/TT	intra		COLO829-ONT_tumor.bam
+severus_0	+chr7:126106069|-chr7:126526846	25	0.43103448275862066	het	DEL		HT	intra	(128517973, 128517973)	COLO829-ONT_tumor.bam
+severus_1	+chr11:48888300|+chr11:48899961	18,3	0.09375	het,hom	BND	foldback	HH/TT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_1	+chr11:49715000|+chr11:49731324	9,13	0.2826086956521739	het,het	BND	complex_inv	HH/TT	intra	(51128601, 51128601)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_1	+chr11:49714844|+chr11:49731324	6,11	0.21153846153846154	hom,het	BND	complex_inv	HH/TT	intra	(51128601, 51128601)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_1	-chr11:48880466|-chr11:48892127	17,2	0.19318181818181818	het,hom	BND	complex_inv	HH/TT	intra	(51128601, 51128601)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_1	-chr11:49711869|-chr11:49728196	14,19	0.4418604651162791	het,het	BND	None	HH/TT	intra	(51128601, 51128601)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_1	-chr11:50108132|-chr11:50366463	4,10	0.29411764705882354	het,het	BND	complex_inv	HH/TT	intra	(51128601, 51128601)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_2	+chr12:8405889|-chr12:8417850	12,11	0.9166666666666666	hom,het	DEL	DEL	HT	intra	(8744369, 8744369)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_2	-chr12:9579440|+chrX:42894370	11,10	0.30303030303030304	het,het	BND	None	TH	inter	(9891253, 43460114)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_2	+chr12:10429008|-chr12:10444430	4,7	0.1590909090909091	het,het	DEL		HT	intra	(12199132, 12199132)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_2	+chr12:9480318|-chrX:42888393	15,16	0.4	het,het	BND	None	HT	inter	(9891253, 43460114)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_3	+chr12:86847821|+chr12:86860052	7,12	0.26666666666666666	het,het	BND	None	HH/TT	intra	(88321756, 88321756)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_3	-chr12:86845555|-chr12:86858770	19,16	0.2807017543859649	het,het	BND	None	HH/TT	intra	(88321756, 88321756)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_3	-chr12:86845555|-chr12:86857785	11,7	0.16279069767441862	het,het	BND	dup_inv_segment	HH/TT	intra	(88321756, 88321756)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_3	+chr12:86846726|+chr12:86860052	10,10	0.18867924528301888	het,het	BND	dup_inv_segment	HH/TT	intra	(88321756, 88321756)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_3	+chr12:88779190|-chr12:88790825	14,25	0.7575757575757576	het,het	DEL	DEL	HT	intra	(93677897, 93677897)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_4	+chr21:22253885|+chr21:27921241	20,13	0.29545454545454547	het,het	BND	None	HH/TT	intra	(24434391, 28009940)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_4	-chr21:26648368|-chr21:26649406	8,22	0.44	het,het	BND	reciprocal_inv_del	HH/TT	intra	(28009940, 28009940)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_4	+chr21:26648368|+chr21:26649308	8,22	0.44	het,het	BND	reciprocal_inv_del	HH/TT	intra	(28009940, 28009940)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_5	+chrX:31283086|-chrX:32020632	16	0.5925925925925926	het	DEL		HT	intra	(31407478, 32273499)	COLO829-ONT_tumor.bam
+severus_5	+chrX:32059738|-chrX:32274979	8	0.4444444444444444	het	DEL		HT	intra	(32273499, 32393591)	COLO829-ONT_tumor.bam
+severus_5	+chrX:32080416|-chrX:32183133	18	0.9473684210526315	het	DEL		HT	intra	(32273499, 32273499)	COLO829-ONT_tumor.bam
+severus_5	+chrX:31178838|-chrX:31198088	16	0.6956521739130435	het	DEL		HT	intra	(31232081, 31232081)	COLO829-ONT_tumor.bam
+severus_6	+chr10:59143170|+chr7:82159848	3,4	0.08888888888888889	het,het	BND	Templated_ins	HH/TT	inter	(59389540, 82832800)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_6	-chr10:59142648|-chr7:82159831	3,1	0.02702702702702703	het,het	BND	Templated_ins	HH/TT	inter	(59389540, 82832800)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_7	-chr3:195621140|+chr3:195750925	5,12	0.15584415584415584	het,het	DUP	tandem_duplication	TH	intra	(197698829, 197698829)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_7	+chr3:195730357|-chr3:195744113	8,6	0.075	het,het	DEL		HT	intra	(197698829, 197698829)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_7	+chr3:195730639|-chr3:195744085	10,8	0.09876543209876543	het,het	DEL		HT	intra	(197698829, 197698829)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_8	-chr4:87926011|-chr4:87937547	34,20	0.5714285714285714	het,het	BND	None	HH/TT	intra	(89616341, 89616341)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_8	+chr4:87926012|+chr4:87937547	20,23	0.5128205128205128	het,het	BND	None	HH/TT	intra	(89616341, 89616341)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_9	-chr11:55597412|-chr11:55664074	14	0.42424242424242425	hom	BND	complex_inv	HH/TT	intra		COLO829-ONT_normal.bam
+severus_9	+chr11:55597952|+chr11:55678392	13	0.41935483870967744	hom	BND	complex_inv	HH/TT	intra		COLO829-ONT_normal.bam
+severus_9	+chr11:55597046|+chr11:55667022	17	0.4594594594594595	het	BND	complex_inv	HH/TT	intra	(61306137, 61306137)	COLO829-ONT_normal.bam
+severus_9	-chr11:55676539|-chr11:55690279	12	0.4444444444444444	het	BND	complex_inv	HH/TT	intra	(61306137, 61306137)	COLO829-ONT_normal.bam
+severus_10	+chr2:34470762|-chr2:34511500	21,27	1.0	het,hom	DEL		HT	intra	(36177506, 36177506)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_10	+chr2:35751135|-chr2:35770168	19,27	1.0	het,het	DEL	DEL	HT	intra	(36177506, 36177506)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_11	+chr5:179525053|-chr5:179651252	3,2	0.038461538461538464	het,hom	BND	None	HT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_11	+chr5:180951626|-chr5:181003454	7,7	1.0	het,het	DEL	DEL	HT	intra	(0, 0)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_12	+chr7:100730167|-chr7:100743038	7,8	0.21621621621621623	het,het	DEL		HT	intra	(104297012, 104297012)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_12	+chr7:100729949|-chr7:100743093	13,19	0.40425531914893614	het,het	DEL	DEL	HT	intra	(104297012, 104297012)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_12	-chr7:100990744|+chr7:101005015	14,17	0.17894736842105263	het,het	DUP	tandem_duplication	TH	intra	(104297012, 104297012)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_13	-chr9:6378333|-chr9:6387422	8,2	0.17391304347826086	hom,hom	BND	foldback	HH/TT	intra		COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_13	+chr9:6700554|-chr9:6711224	9,14	0.42424242424242425	het,het	DEL	DEL	HT	intra	(6838302, 6838302)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_14	+chr9:62806330|+chr9:62818567	23,10	0.03496503496503497	het,het	BND	None	HH/TT	intra	(62939125, 62939125)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_14	+chr9:62818567|-chr9:63809298	8,10	0.03225806451612903	het,het	DEL		HT	intra	(62939125, 63969026)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_14	-chr9:62814083|-chr9:62822794	19,18	0.05863192182410423	het,het	BND	foldback	HH/TT	intra	(62939125, 62939125)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_15	+chr9:123979106|+chr9:123993772	18,13	0.2826086956521739	het,het	BND	dup_inv_segment	HH/TT	intra	(125529275, 125529275)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_15	-chr9:123976372|-chr9:123991038	10,25	0.29411764705882354	het,het	BND	dup_inv_segment	HH/TT	intra	(125529275, 125529275)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_16	+chr14:105693468|+chr14:105698234	20,12	0.3	het,het	BND	reciprocal_inv_del	HH/TT	intra	(105881132, 105881132)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_16	-chr14:105693906|-chr14:105698238	12,20	0.39215686274509803	het,het	BND	reciprocal_inv_del	HH/TT	intra	(105881132, 105881132)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_17	+chr6:32486909|-chr6:32510887	7,9	0.5	het,het	BND	None	HT	intra	(35136554, 35136554)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_17	-chr6:31041443|-chr6:31042318	20,19	0.3275862068965517	het,het	BND	None	HH/TT	intra	(35136554, 35136554)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_18	+chr8:102423397|+chr8:102423778	1,4	0.09523809523809523	het,het	BND	None	HH/TT	intra	(105988154, 105988154)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_18	+chr8:102423397|+chr8:102423644	10,1	0.04	het,hom	BND	reciprocal_inv_del	HH/TT	intra		COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_18	-chr8:102423397|-chr8:102423789	1,10	0.20833333333333334	het,het	BND	reciprocal_inv_del	HH/TT	intra	(105988154, 105988154)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_19	+chr14:60606118|+chr14:60613248	6	0.14634146341463414	het	BND	complex_inv	HH/TT	intra	(61639447, 61639447)	COLO829-ONT_normal.bam
+severus_19	+chr14:60606118|+chr14:60611659	10	0.23809523809523808	het	BND	complex_inv	HH/TT	intra	(61639447, 61639447)	COLO829-ONT_normal.bam
+severus_19	-chr14:60606118|-chr14:60611659	10	0.23809523809523808	het	BND	complex_inv	HH/TT	intra	(61639447, 61639447)	COLO829-ONT_normal.bam
+severus_20	+chr10:58717662|+chr12:72273294	23	0.4791666666666667	hom	BND	None	HH/TT	inter		COLO829-ONT_tumor.bam
+severus_20	-chr10:58717463|+chr3:25359568	24	0.2891566265060241	het	BND	None	HT	inter	(26234194, 59389540)	COLO829-ONT_tumor.bam
+severus_20	-chr12:72273111|+chr3:25359111	24	0.25	het	BND	None	HT	inter	(26234194, 72369598)	COLO829-ONT_tumor.bam
+severus_21	+chr3:26622431|+chr3:26623008	38	0.3619047619047619	het	BND	foldback	HH/TT	intra	(27274629, 27274629)	COLO829-ONT_tumor.bam
+severus_21	+chr6:26193889|+chr6:26194178	16	0.2909090909090909	hom	BND	inv_tra	HH/TT	intra		COLO829-ONT_tumor.bam
+severus_21	-chr3:26390425|-chr6:26193802	21	0.21428571428571427	het	BND	inv_tra	HH/TT	inter	(26516942, 27274629)	COLO829-ONT_tumor.bam
+severus_22	-chr9:28031864|-chr9:28034468	10	0.43478260869565216	het	BND	dup_inv_segment	HH/TT	intra	(30700375, 30700375)	COLO829-ONT_tumor.bam
+severus_22	+chr9:28031837|+chr9:28059142	14	0.5833333333333334	het	BND	dup_inv_segment	HH/TT	intra	(30700375, 30700375)	COLO829-ONT_tumor.bam
+severus_22	+chr9:28034301|-chr9:28157693	11	0.5	het	BND	None	HT	intra	(30700375, 30700375)	COLO829-ONT_tumor.bam
+severus_23	+chr1:43593625|+chr1:43594215	2,7	0.1891891891891892	hom,het	BND	reciprocal_inv_del	HH/TT	intra	(48691157, 48691157)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_23	-chr1:43593638|-chr1:43594264	8,2	0.058823529411764705	het,het	BND	reciprocal_inv_del	HH/TT	intra	(48691157, 48691157)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_25	+chr1:168217251|-chr3:53141868	1,6	0.10344827586206896	hom,hom	BND	None	TH	inter		COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_25	-chr1:168216947|-chr1:182305180	14,5	0.15151515151515152	het,hom	BND	None	HH/TT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_26	-chr10:125501848|-chr10:125502118	2,3	0.08333333333333333	hom,hom	BND	dup_inv_segment	HH/TT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_26	+chr10:125502112|+chr10:125508658	4,3	0.13043478260869565	het,het	BND	dup_inv_segment	HH/TT	intra	(126643854, 126643854)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_27	-chr5:43086248|-chr7:80914418	4,4	0.07692307692307693	het,het	BND	Templated_ins	HH/TT	inter	(46597404, 82832800)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_27	+chr5:43088862|+chr7:80914433	2,9	0.15789473684210525	het,het	BND	Templated_ins	HH/TT	inter	(46597404, 82832800)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_28	+chr7:70955983|+chr7:70973901	16,22	0.4888888888888889	het,het	BND	reciprocal_inv_del	HH/TT	intra	(72763428, 72763428)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_28	-chr7:70961198|-chr7:70973893	19,16	0.36363636363636365	het,het	BND	reciprocal_inv_del	HH/TT	intra	(72763428, 72763428)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_30	+chr13:111703855|-chr13:111789114	22,41	1.0	hom,het	DEL	DEL	HT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_30	+chr13:112772524|-chr13:112790168	21,12	0.4	het,het	BND	None	HT	intra	(0, 0)	COLO829-ONT_normal.bam,COLO829-ONT_tumor.bam
+severus_32	-chr3:162827574|-chr3:162829870	25,21	0.4883720930232558	het,het	BND	foldback	HH/TT	intra	(169266197, 169266197)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_32	+chr3:162807954|+chr3:162829855	24,15	0.4411764705882353	het,het	BND	None	HH/TT	intra	(169266197, 169266197)	COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_34	-chr6:12431797|-chr6:12432447	44,31	0.8857142857142857	het,hom	BND	reciprocal_inv_del	HH/TT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_34	+chr6:12431797|+chr6:12432272	43,30	0.9148936170212766	hom,het	BND	reciprocal_inv_del	HH/TT	intra		COLO829-ONT_tumor.bam,COLO829-ONT_normal.bam
+severus_38	+chr22:22759210|-chr22:22899620	3	0.09090909090909091	hom	BND	None	HT	intra		COLO829-ONT_normal.bam
+severus_38	+chr22:22026553|-chr22:22899618	3	0.07692307692307693	het	BND	None	HT	intra	(23290741, 23290741)	COLO829-ONT_normal.bam
+severus_39	+chrY:21053790|+chrY:21069745	10	0.35714285714285715	het	BND	foldback	HH/TT	intra	(21229610, 21229610)	COLO829-ONT_normal.bam
+severus_39	-chrY:21005916|-chrY:21063744	12	0.32432432432432434	het	BND	None	HH/TT	intra	(21229610, 21229610)	COLO829-ONT_normal.bam
+severus_40	+chr10:7090914|-chr19:17286830	10	0.2631578947368421	het	BND	Templated_ins	HT	inter	(7798422, 18587608)	COLO829-ONT_tumor.bam
+severus_40	-chr10:7017548|+chr19:17286002	13	0.35135135135135137	het	BND	Templated_ins	TH	inter	(7798422, 18587608)	COLO829-ONT_tumor.bam
+severus_42	-chr15:23461731|+chr20:38646024	8	0.13333333333333333	hom	BND	None	TH	inter		COLO829-ONT_tumor.bam
+severus_42	+chr15:23586514|+chr15:23747556	23	0.42592592592592593	het	BND	None	HH/TT	intra	(27089538, 27089538)	COLO829-ONT_tumor.bam
