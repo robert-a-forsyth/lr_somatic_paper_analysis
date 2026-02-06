@@ -1,0 +1,2339 @@
+Processing sample: hifi_revio.tar.gz
+---------------------------------
+Searching for directories starting with hash prefix: 7b/ab0c9e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7b/ab0c9e569a8b800add36ef3d1fe909 to hash prefix 7b/ab0c9e (sample: hifi_revio.tar.gz)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7b/ab0c9e569a8b800add36ef3d1fe909
+Sample: hifi_revio.tar.gz
+Usage: 78M
+Running Total (Sample): 78M
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0.tar.gz
+---------------------------------
+Searching for directories starting with hash prefix: 31/ce85dd
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/31/ce85dd854e7011b88a2998476eea80 to hash prefix 31/ce85dd (sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0.tar.gz)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/31/ce85dd854e7011b88a2998476eea80
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0.tar.gz
+Usage: 78M
+Running Total (Sample): 78M
+---------------------------------
+Processing sample: CCS15-ONT-TO
+---------------------------------
+Searching for directories starting with hash prefix: 77/e9e681
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/77/e9e681abf8b3aaa239d09ac43e4c68 to hash prefix 77/e9e681 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/77/e9e681abf8b3aaa239d09ac43e4c68
+Sample: CCS15-ONT-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 90/b4e6a7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/90/b4e6a738eab499789efb208e89e76a to hash prefix 90/b4e6a7 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/90/b4e6a738eab499789efb208e89e76a
+Sample: CCS15-ONT-TO
+Usage: 20K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: 40/f21851
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/f2185170c51d73261dafe18a1311fc to hash prefix 40/f21851 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/f2185170c51d73261dafe18a1311fc
+Sample: CCS15-ONT-TO
+Usage: 72G
+Running Total (Sample): 72G
+---------------------------------
+Searching for directories starting with hash prefix: d0/88ccdb
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d0/88ccdb8eb3c74b5c91a951d8faf095 to hash prefix d0/88ccdb (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d0/88ccdb8eb3c74b5c91a951d8faf095
+Sample: CCS15-ONT-TO
+Usage: 72G
+Running Total (Sample): 144G
+---------------------------------
+Searching for directories starting with hash prefix: 90/7acc2e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/90/7acc2eefba39abde4873e9f48f527d to hash prefix 90/7acc2e (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/90/7acc2eefba39abde4873e9f48f527d
+Sample: CCS15-ONT-TO
+Usage: 19M
+Running Total (Sample): 144G
+---------------------------------
+Searching for directories starting with hash prefix: b9/464c68
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b9/464c680ce3dc223a47e2fe88d0d4e9 to hash prefix b9/464c68 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b9/464c680ce3dc223a47e2fe88d0d4e9
+Sample: CCS15-ONT-TO
+Usage: 101G
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: 29/510fd2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/510fd23c103003ff509be488bd1cf3 to hash prefix 29/510fd2 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/510fd23c103003ff509be488bd1cf3
+Sample: CCS15-ONT-TO
+Usage: 109K
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: 61/adc732
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/61/adc73203184099f86378833228828a to hash prefix 61/adc732 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/61/adc73203184099f86378833228828a
+Sample: CCS15-ONT-TO
+Usage: 2.8M
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: 10/fdf510
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/fdf510751c041075c30e5fd47eb82f to hash prefix 10/fdf510 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/fdf510751c041075c30e5fd47eb82f
+Sample: CCS15-ONT-TO
+Usage: 21K
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: c9/9456a3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c9/9456a30806bdaba8fd4a70b164e0ef to hash prefix c9/9456a3 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c9/9456a30806bdaba8fd4a70b164e0ef
+Sample: CCS15-ONT-TO
+Usage: 20K
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: a9/107f38
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a9/107f38498081b274cc6a4636c7f7a7 to hash prefix a9/107f38 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a9/107f38498081b274cc6a4636c7f7a7
+Sample: CCS15-ONT-TO
+Usage: 384M
+Running Total (Sample): 244G
+---------------------------------
+Searching for directories starting with hash prefix: 7e/04dac8
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7e/04dac845499c4a430afdeeea5a6547 to hash prefix 7e/04dac8 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7e/04dac845499c4a430afdeeea5a6547
+Sample: CCS15-ONT-TO
+Usage: 102G
+Running Total (Sample): 346G
+---------------------------------
+Searching for directories starting with hash prefix: 21/1a4f10
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/1a4f1022c0a8357836512c75375036 to hash prefix 21/1a4f10 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/1a4f1022c0a8357836512c75375036
+Sample: CCS15-ONT-TO
+Usage: 251M
+Running Total (Sample): 347G
+---------------------------------
+Searching for directories starting with hash prefix: 26/d49859
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/d49859e15612ba530cb37f8065a388 to hash prefix 26/d49859 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/d49859e15612ba530cb37f8065a388
+Sample: CCS15-ONT-TO
+Usage: 89M
+Running Total (Sample): 347G
+---------------------------------
+Searching for directories starting with hash prefix: b5/2393e0
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b5/2393e0b918db4d0407978de19ae707 to hash prefix b5/2393e0 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b5/2393e0b918db4d0407978de19ae707
+Sample: CCS15-ONT-TO
+Usage: 85M
+Running Total (Sample): 347G
+---------------------------------
+Searching for directories starting with hash prefix: 83/55d279
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/83/55d279c9e37f09137aef761204a50c to hash prefix 83/55d279 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/83/55d279c9e37f09137aef761204a50c
+Sample: CCS15-ONT-TO
+Usage: 97G
+Running Total (Sample): 444G
+---------------------------------
+Searching for directories starting with hash prefix: e7/3c19af
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/3c19af0f4ca9d935a324ac704ab81c to hash prefix e7/3c19af (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/3c19af0f4ca9d935a324ac704ab81c
+Sample: CCS15-ONT-TO
+Usage: 38M
+Running Total (Sample): 444G
+---------------------------------
+Searching for directories starting with hash prefix: ff/254e6a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ff/254e6a697966ef1d42ce1e9a7432ce to hash prefix ff/254e6a (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ff/254e6a697966ef1d42ce1e9a7432ce
+Sample: CCS15-ONT-TO
+Usage: 267M
+Running Total (Sample): 444G
+---------------------------------
+Searching for directories starting with hash prefix: ac/96d8c1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/96d8c18288f641b99d07d1bd415cbf to hash prefix ac/96d8c1 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/96d8c18288f641b99d07d1bd415cbf
+Sample: CCS15-ONT-TO
+Usage: 248M
+Running Total (Sample): 444G
+---------------------------------
+Searching for directories starting with hash prefix: 50/428b38
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/50/428b388556fd650f7f3db3736b3078 to hash prefix 50/428b38 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/50/428b388556fd650f7f3db3736b3078
+Sample: CCS15-ONT-TO
+Usage: 87M
+Running Total (Sample): 444G
+---------------------------------
+Searching for directories starting with hash prefix: db/b18919
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/db/b18919b413f8c35727d01898b2cc67 to hash prefix db/b18919 (sample: CCS15-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/db/b18919b413f8c35727d01898b2cc67
+Sample: CCS15-ONT-TO
+Usage: 7.5G
+Running Total (Sample): 452G
+---------------------------------
+Processing sample: CCS15-PB
+---------------------------------
+Searching for directories starting with hash prefix: ee/84c44f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ee/84c44f40eb90878f6229a0b3aa3e1c to hash prefix ee/84c44f (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ee/84c44f40eb90878f6229a0b3aa3e1c
+Sample: CCS15-PB
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 71/902284
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/71/90228469903269dc7fb61c18d3ea81 to hash prefix 71/902284 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/71/90228469903269dc7fb61c18d3ea81
+Sample: CCS15-PB
+Usage: 21K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: 9a/1f62d5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9a/1f62d5e8120ea608e05e6a07177e73 to hash prefix 9a/1f62d5 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9a/1f62d5e8120ea608e05e6a07177e73
+Sample: CCS15-PB
+Usage: 20K
+Running Total (Sample): 60K
+---------------------------------
+Searching for directories starting with hash prefix: 4b/f8ea12
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/f8ea1265562591ba8218299bc9c2de to hash prefix 4b/f8ea12 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/f8ea1265562591ba8218299bc9c2de
+Sample: CCS15-PB
+Usage: 20K
+Running Total (Sample): 80K
+---------------------------------
+Searching for directories starting with hash prefix: 6c/3042ce
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6c/3042ce85c8a86e48d7fbbac491de7c to hash prefix 6c/3042ce (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6c/3042ce85c8a86e48d7fbbac491de7c
+Sample: CCS15-PB
+Usage: 54G
+Running Total (Sample): 54G
+---------------------------------
+Searching for directories starting with hash prefix: 19/d8a404
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/19/d8a40456539195e6fc9aa3ae56409e to hash prefix 19/d8a404 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/19/d8a40456539195e6fc9aa3ae56409e
+Sample: CCS15-PB
+Usage: 56G
+Running Total (Sample): 110G
+---------------------------------
+Searching for directories starting with hash prefix: c0/f859ab
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/f859abcf6c860f339003221ae1c938 to hash prefix c0/f859ab (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/f859abcf6c860f339003221ae1c938
+Sample: CCS15-PB
+Usage: 54G
+Running Total (Sample): 164G
+---------------------------------
+Searching for directories starting with hash prefix: 73/edb4c6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/edb4c60a518e543b2c81a2b6cddbaf to hash prefix 73/edb4c6 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/edb4c60a518e543b2c81a2b6cddbaf
+Sample: CCS15-PB
+Usage: 56G
+Running Total (Sample): 219G
+---------------------------------
+Searching for directories starting with hash prefix: 2e/8329ba
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2e/8329ba4a74d3c9ca80111a9312c5ad to hash prefix 2e/8329ba (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2e/8329ba4a74d3c9ca80111a9312c5ad
+Sample: CCS15-PB
+Usage: 56G
+Running Total (Sample): 275G
+---------------------------------
+Searching for directories starting with hash prefix: 75/fca5b7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/fca5b7d841b22c39678caa610fd362 to hash prefix 75/fca5b7 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/fca5b7d841b22c39678caa610fd362
+Sample: CCS15-PB
+Usage: 54G
+Running Total (Sample): 329G
+---------------------------------
+Searching for directories starting with hash prefix: e3/ed10c0
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/ed10c0b797684749c0ae145bf02af8 to hash prefix e3/ed10c0 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/ed10c0b797684749c0ae145bf02af8
+Sample: CCS15-PB
+Usage: 22M
+Running Total (Sample): 329G
+---------------------------------
+Searching for directories starting with hash prefix: 16/164d2b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/16/164d2b8f53b6dd7061af74b84f0955 to hash prefix 16/164d2b (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/16/164d2b8f53b6dd7061af74b84f0955
+Sample: CCS15-PB
+Usage: 25M
+Running Total (Sample): 329G
+---------------------------------
+Searching for directories starting with hash prefix: b1/289b3f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/289b3f0f3d2bf1592535f4aa5c1e6e to hash prefix b1/289b3f (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/289b3f0f3d2bf1592535f4aa5c1e6e
+Sample: CCS15-PB
+Usage: 60G
+Running Total (Sample): 388G
+---------------------------------
+Searching for directories starting with hash prefix: 3d/bc495c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/bc495c2045a3a1d58b8b8063ac8381 to hash prefix 3d/bc495c (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/bc495c2045a3a1d58b8b8063ac8381
+Sample: CCS15-PB
+Usage: 109K
+Running Total (Sample): 388G
+---------------------------------
+Searching for directories starting with hash prefix: 60/06105d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/60/06105dafee34131025709457490eb1 to hash prefix 60/06105d (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/60/06105dafee34131025709457490eb1
+Sample: CCS15-PB
+Usage: 2.6M
+Running Total (Sample): 388G
+---------------------------------
+Searching for directories starting with hash prefix: 57/ac6028
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/57/ac60284941e710085dcef9786c9fd8 to hash prefix 57/ac6028 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/57/ac60284941e710085dcef9786c9fd8
+Sample: CCS15-PB
+Usage: 62G
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: f6/cb6a35
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f6/cb6a3556b93600cccd9273fe6f060c to hash prefix f6/cb6a35 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f6/cb6a3556b93600cccd9273fe6f060c
+Sample: CCS15-PB
+Usage: 109K
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: 75/d2b3fd
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/d2b3fdfb51dd1354ca880d4be322b3 to hash prefix 75/d2b3fd (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/d2b3fdfb51dd1354ca880d4be322b3
+Sample: CCS15-PB
+Usage: 21K
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: b0/d8c867
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/d8c8670018552beda286da47c5b8c7 to hash prefix b0/d8c867 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/d8c8670018552beda286da47c5b8c7
+Sample: CCS15-PB
+Usage: 20K
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: d7/81e413
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d7/81e41308a1543a59029d840dfcf9e6 to hash prefix d7/81e413 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d7/81e41308a1543a59029d840dfcf9e6
+Sample: CCS15-PB
+Usage: 3.0M
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: f1/816f67
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/816f67b4f400f140a9eb4e266f871e to hash prefix f1/816f67 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/816f67b4f400f140a9eb4e266f871e
+Sample: CCS15-PB
+Usage: 21K
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: f5/baac05
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f5/baac05ad4090c980fa5f6c745160c3 to hash prefix f5/baac05 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f5/baac05ad4090c980fa5f6c745160c3
+Sample: CCS15-PB
+Usage: 20K
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: 4a/eb6ab9
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4a/eb6ab9335b77889947c747f39541d4 to hash prefix 4a/eb6ab9 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4a/eb6ab9335b77889947c747f39541d4
+Sample: CCS15-PB
+Usage: 14M
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: ae/59058f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ae/59058f72189bdf3c4ba822da2300b0 to hash prefix ae/59058f (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ae/59058f72189bdf3c4ba822da2300b0
+Sample: CCS15-PB
+Usage: 16M
+Running Total (Sample): 450G
+---------------------------------
+Searching for directories starting with hash prefix: c0/588b2a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/588b2a1ce026854cfc4721cb97851c to hash prefix c0/588b2a (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/588b2a1ce026854cfc4721cb97851c
+Sample: CCS15-PB
+Usage: 2.0G
+Running Total (Sample): 452G
+---------------------------------
+Searching for directories starting with hash prefix: 99/137eb6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/137eb64ca2c4be815e4c62f2e6fbbb to hash prefix 99/137eb6 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/137eb64ca2c4be815e4c62f2e6fbbb
+Sample: CCS15-PB
+Usage: 74M
+Running Total (Sample): 452G
+---------------------------------
+Searching for directories starting with hash prefix: d4/55ccfb
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d4/55ccfb303a5f5a69f072bd60146a69 to hash prefix d4/55ccfb (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d4/55ccfb303a5f5a69f072bd60146a69
+Sample: CCS15-PB
+Usage: 64G
+Running Total (Sample): 516G
+---------------------------------
+Searching for directories starting with hash prefix: c4/793a60
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c4/793a603958262215dcfef3b68f9cbf to hash prefix c4/793a60 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c4/793a603958262215dcfef3b68f9cbf
+Sample: CCS15-PB
+Usage: 66G
+Running Total (Sample): 581G
+---------------------------------
+Searching for directories starting with hash prefix: 5e/ee52af
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5e/ee52af5686d49b0938fd018569f560 to hash prefix 5e/ee52af (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5e/ee52af5686d49b0938fd018569f560
+Sample: CCS15-PB
+Usage: 14M
+Running Total (Sample): 581G
+---------------------------------
+Searching for directories starting with hash prefix: 92/a44ae7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/92/a44ae78aae636de5bfd49316e6df18 to hash prefix 92/a44ae7 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/92/a44ae78aae636de5bfd49316e6df18
+Sample: CCS15-PB
+Usage: 18M
+Running Total (Sample): 581G
+---------------------------------
+Searching for directories starting with hash prefix: 1a/4786ed
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1a/4786ed2ad85b9ef6a341c40041cd93 to hash prefix 1a/4786ed (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1a/4786ed2ad85b9ef6a341c40041cd93
+Sample: CCS15-PB
+Usage: 463M
+Running Total (Sample): 582G
+---------------------------------
+Searching for directories starting with hash prefix: ac/60810e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/60810e9aebc26087ae4ac58e98b4f0 to hash prefix ac/60810e (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/60810e9aebc26087ae4ac58e98b4f0
+Sample: CCS15-PB
+Usage: 272M
+Running Total (Sample): 582G
+---------------------------------
+Searching for directories starting with hash prefix: 89/912530
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/89/9125304a7c3a991ee184a9bc7fd3c9 to hash prefix 89/912530 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/89/9125304a7c3a991ee184a9bc7fd3c9
+Sample: CCS15-PB
+Usage: 89M
+Running Total (Sample): 582G
+---------------------------------
+Searching for directories starting with hash prefix: a0/9b7f2c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/9b7f2c3a2eccddfabe55462c230d86 to hash prefix a0/9b7f2c (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/9b7f2c3a2eccddfabe55462c230d86
+Sample: CCS15-PB
+Usage: 11G
+Running Total (Sample): 593G
+---------------------------------
+Searching for directories starting with hash prefix: 00/1c8a5e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/00/1c8a5e387c3ba0b1694cd7443a9324 to hash prefix 00/1c8a5e (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/00/1c8a5e387c3ba0b1694cd7443a9324
+Sample: CCS15-PB
+Usage: 14G
+Running Total (Sample): 606G
+---------------------------------
+Searching for directories starting with hash prefix: 78/4538c4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/78/4538c45efa61bf2e067944f9967284 to hash prefix 78/4538c4 (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/78/4538c45efa61bf2e067944f9967284
+Sample: CCS15-PB
+Usage: 23M
+Running Total (Sample): 606G
+---------------------------------
+Searching for directories starting with hash prefix: cc/a0044b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cc/a0044b3514224c7c087e0d9678302c to hash prefix cc/a0044b (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cc/a0044b3514224c7c087e0d9678302c
+Sample: CCS15-PB
+Usage: 23M
+Running Total (Sample): 606G
+---------------------------------
+Searching for directories starting with hash prefix: 35/585ecf
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/35/585ecf211d3b928509b0b88d9a21ee to hash prefix 35/585ecf (sample: CCS15-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/35/585ecf211d3b928509b0b88d9a21ee
+Sample: CCS15-PB
+Usage: 1.3G
+Running Total (Sample): 607G
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0.tar.gz
+---------------------------------
+Searching for directories starting with hash prefix: 49/02821c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/49/02821c57d875281e8d1ebe180dffb2 to hash prefix 49/02821c (sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0.tar.gz)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/49/02821c57d875281e8d1ebe180dffb2
+Sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0.tar.gz
+Usage: 78M
+Running Total (Sample): 78M
+---------------------------------
+Processing sample: COLO829-ONT
+---------------------------------
+Searching for directories starting with hash prefix: 2a/6c0a3b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2a/6c0a3be7983ffff519294cc3a07505 to hash prefix 2a/6c0a3b (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2a/6c0a3be7983ffff519294cc3a07505
+Sample: COLO829-ONT
+Usage: 20K
+Running Total (Sample): 20K
+---------------------------------
+Searching for directories starting with hash prefix: 67/1b1742
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/67/1b1742d36d7aebd2af69b8528c20ce to hash prefix 67/1b1742 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/67/1b1742d36d7aebd2af69b8528c20ce
+Sample: COLO829-ONT
+Usage: 21K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: 1d/1c0f9d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1d/1c0f9dee37f7aef939607fd59204d0 to hash prefix 1d/1c0f9d (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1d/1c0f9dee37f7aef939607fd59204d0
+Sample: COLO829-ONT
+Usage: 20K
+Running Total (Sample): 60K
+---------------------------------
+Searching for directories starting with hash prefix: 03/5c690b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/5c690b070d390e1722e06ccede76ef to hash prefix 03/5c690b (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/5c690b070d390e1722e06ccede76ef
+Sample: COLO829-ONT
+Usage: 20K
+Running Total (Sample): 79K
+---------------------------------
+Searching for directories starting with hash prefix: 29/f97602
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/f9760296af8010b8288ece840d4b65 to hash prefix 29/f97602 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/f9760296af8010b8288ece840d4b65
+Sample: COLO829-ONT
+Usage: 120G
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: 78/b2251d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/78/b2251dcbc725f328d8a72c5e1f2c12 to hash prefix 78/b2251d (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/78/b2251dcbc725f328d8a72c5e1f2c12
+Sample: COLO829-ONT
+Usage: 109K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: c3/3bb1c4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c3/3bb1c42a0858229fdf02008199525f to hash prefix c3/3bb1c4 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c3/3bb1c42a0858229fdf02008199525f
+Sample: COLO829-ONT
+Usage: 3.4M
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: 56/9750b3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/9750b38dbf3067d05ccaf27ac5f684 to hash prefix 56/9750b3 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/9750b38dbf3067d05ccaf27ac5f684
+Sample: COLO829-ONT
+Usage: 21K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: a5/e6d8e1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a5/e6d8e17ee84b58f3c76128a4a3a096 to hash prefix a5/e6d8e1 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a5/e6d8e17ee84b58f3c76128a4a3a096
+Sample: COLO829-ONT
+Usage: 20K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: 1d/21e261
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1d/21e261db49609302f1142def7d489b to hash prefix 1d/21e261 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1d/21e261db49609302f1142def7d489b
+Sample: COLO829-ONT
+Usage: 114M
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: bb/a79e5b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bb/a79e5bc601cc9a39ecdc0c36d24fe9 to hash prefix bb/a79e5b (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bb/a79e5bc601cc9a39ecdc0c36d24fe9
+Sample: COLO829-ONT
+Usage: 149G
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: b2/6691bf
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b2/6691bfc96ae4ab4d05bd4656cc3561 to hash prefix b2/6691bf (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b2/6691bfc96ae4ab4d05bd4656cc3561
+Sample: COLO829-ONT
+Usage: 110K
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: 56/d4d46c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/d4d46c10b30fdbd73bb5901542f290 to hash prefix 56/d4d46c (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/d4d46c10b30fdbd73bb5901542f290
+Sample: COLO829-ONT
+Usage: 18K
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: cf/e96e83
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cf/e96e830b32a2d96efd6a9a4e480878 to hash prefix cf/e96e83 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cf/e96e830b32a2d96efd6a9a4e480878
+Sample: COLO829-ONT
+Usage: 4.3M
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: f1/4f006c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/4f006c77fc96e68d2bd52cb2b26af6 to hash prefix f1/4f006c (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/4f006c77fc96e68d2bd52cb2b26af6
+Sample: COLO829-ONT
+Usage: 21K
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: c5/efe83c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c5/efe83c99d7e9154d0df419c2877eec to hash prefix c5/efe83c (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c5/efe83c99d7e9154d0df419c2877eec
+Sample: COLO829-ONT
+Usage: 20K
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: 87/e212ca
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/87/e212caacbe2429dcb6f858ba77b068 to hash prefix 87/e212ca (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/87/e212caacbe2429dcb6f858ba77b068
+Sample: COLO829-ONT
+Usage: 146M
+Running Total (Sample): 268G
+---------------------------------
+Searching for directories starting with hash prefix: 81/1d033e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/81/1d033e0f55a0ff6b4d061dd6ea4d25 to hash prefix 81/1d033e (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/81/1d033e0f55a0ff6b4d061dd6ea4d25
+Sample: COLO829-ONT
+Usage: 2.2G
+Running Total (Sample): 271G
+---------------------------------
+Searching for directories starting with hash prefix: 73/5be86e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/5be86e4457decc47159cebb735011b to hash prefix 73/5be86e (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/5be86e4457decc47159cebb735011b
+Sample: COLO829-ONT
+Usage: 79M
+Running Total (Sample): 271G
+---------------------------------
+Searching for directories starting with hash prefix: 82/0c52a1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/82/0c52a199bcfcf1a610da56b75dee40 to hash prefix 82/0c52a1 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/82/0c52a199bcfcf1a610da56b75dee40
+Sample: COLO829-ONT
+Usage: 124G
+Running Total (Sample): 394G
+---------------------------------
+Searching for directories starting with hash prefix: 52/e8a812
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/e8a812fe9dba6d7f70177b27d8f9ff to hash prefix 52/e8a812 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/e8a812fe9dba6d7f70177b27d8f9ff
+Sample: COLO829-ONT
+Usage: 41M
+Running Total (Sample): 394G
+---------------------------------
+Searching for directories starting with hash prefix: 04/56ddb1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/04/56ddb1de30367d50a33ee56fd973dd to hash prefix 04/56ddb1 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/04/56ddb1de30367d50a33ee56fd973dd
+Sample: COLO829-ONT
+Usage: 154G
+Running Total (Sample): 547G
+---------------------------------
+Searching for directories starting with hash prefix: 8c/ef4052
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8c/ef4052a041d0eb98eb22f3fe7656df to hash prefix 8c/ef4052 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8c/ef4052a041d0eb98eb22f3fe7656df
+Sample: COLO829-ONT
+Usage: 54M
+Running Total (Sample): 547G
+---------------------------------
+Searching for directories starting with hash prefix: 40/6c6a97
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/6c6a976cff5e98e8d809d02afa0fb0 to hash prefix 40/6c6a97 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/6c6a976cff5e98e8d809d02afa0fb0
+Sample: COLO829-ONT
+Usage: 459M
+Running Total (Sample): 548G
+---------------------------------
+Searching for directories starting with hash prefix: 14/0b31cc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/14/0b31cc98a3ab8a93a4994f4b84a35e to hash prefix 14/0b31cc (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/14/0b31cc98a3ab8a93a4994f4b84a35e
+Sample: COLO829-ONT
+Usage: 227M
+Running Total (Sample): 548G
+---------------------------------
+Searching for directories starting with hash prefix: 28/a25667
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/28/a25667f5f94bdae004091c9298ad98 to hash prefix 28/a25667 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/28/a25667f5f94bdae004091c9298ad98
+Sample: COLO829-ONT
+Usage: 71M
+Running Total (Sample): 548G
+---------------------------------
+Searching for directories starting with hash prefix: 0e/07e2e6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0e/07e2e65f56c8aa997b04b510886e26 to hash prefix 0e/07e2e6 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0e/07e2e65f56c8aa997b04b510886e26
+Sample: COLO829-ONT
+Usage: 4.1G
+Running Total (Sample): 552G
+---------------------------------
+Searching for directories starting with hash prefix: d9/618a91
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d9/618a913578c801623cf251502ebc96 to hash prefix d9/618a91 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d9/618a913578c801623cf251502ebc96
+Sample: COLO829-ONT
+Usage: 1.3M
+Running Total (Sample): 552G
+---------------------------------
+Searching for directories starting with hash prefix: ab/114fad
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ab/114fad47e51d027d11221ca9b40f73 to hash prefix ab/114fad (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ab/114fad47e51d027d11221ca9b40f73
+Sample: COLO829-ONT
+Usage: 1.3M
+Running Total (Sample): 552G
+---------------------------------
+Searching for directories starting with hash prefix: c6/024dac
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/024dac5dd0ae49c8417762d4f709b1 to hash prefix c6/024dac (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/024dac5dd0ae49c8417762d4f709b1
+Sample: COLO829-ONT
+Usage: 53M
+Running Total (Sample): 552G
+---------------------------------
+Searching for directories starting with hash prefix: cf/2a12b4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cf/2a12b46dc27c71ce8230778b420c2f to hash prefix cf/2a12b4 (sample: COLO829-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/cf/2a12b46dc27c71ce8230778b420c2f
+Sample: COLO829-ONT
+Usage: 11G
+Running Total (Sample): 562G
+---------------------------------
+Processing sample: COLO829-PB
+---------------------------------
+Searching for directories starting with hash prefix: 47/386402
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/47/386402caa4cabc65e925d7cabd44ce to hash prefix 47/386402 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/47/386402caa4cabc65e925d7cabd44ce
+Sample: COLO829-PB
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 96/9222c6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/9222c677cbee97f97a66728e7ef15b to hash prefix 96/9222c6 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/9222c677cbee97f97a66728e7ef15b
+Sample: COLO829-PB
+Usage: 21K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: 0d/7c1829
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0d/7c182924dd0c83267ee5be50683c9e to hash prefix 0d/7c1829 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0d/7c182924dd0c83267ee5be50683c9e
+Sample: COLO829-PB
+Usage: 20K
+Running Total (Sample): 60K
+---------------------------------
+Searching for directories starting with hash prefix: 43/5aa1c2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/43/5aa1c27aabee296352414ee5c42e95 to hash prefix 43/5aa1c2 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/43/5aa1c27aabee296352414ee5c42e95
+Sample: COLO829-PB
+Usage: 20K
+Running Total (Sample): 80K
+---------------------------------
+Searching for directories starting with hash prefix: e5/537986
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e5/53798614f5cddd64e85dffc2f917da to hash prefix e5/537986 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e5/53798614f5cddd64e85dffc2f917da
+Sample: COLO829-PB
+Usage: 63G
+Running Total (Sample): 63G
+---------------------------------
+Searching for directories starting with hash prefix: c6/791725
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/791725dd34aeca4ac34ac54757f495 to hash prefix c6/791725 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/791725dd34aeca4ac34ac54757f495
+Sample: COLO829-PB
+Usage: 109K
+Running Total (Sample): 63G
+---------------------------------
+Searching for directories starting with hash prefix: e3/ed9972
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/ed9972974227f0b0c9e38a82b5d611 to hash prefix e3/ed9972 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/ed9972974227f0b0c9e38a82b5d611
+Sample: COLO829-PB
+Usage: 3.9M
+Running Total (Sample): 63G
+---------------------------------
+Searching for directories starting with hash prefix: 94/16dce4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/94/16dce45734c7566ae00f736201ee34 to hash prefix 94/16dce4 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/94/16dce45734c7566ae00f736201ee34
+Sample: COLO829-PB
+Usage: 21K
+Running Total (Sample): 63G
+---------------------------------
+Searching for directories starting with hash prefix: 96/041bff
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/041bffff2d7bebd6e985d4e9dc66dd to hash prefix 96/041bff (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/041bffff2d7bebd6e985d4e9dc66dd
+Sample: COLO829-PB
+Usage: 20K
+Running Total (Sample): 63G
+---------------------------------
+Searching for directories starting with hash prefix: 5f/72e62c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5f/72e62c5ed6a6222edb14b3ce0ab9fa to hash prefix 5f/72e62c (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5f/72e62c5ed6a6222edb14b3ce0ab9fa
+Sample: COLO829-PB
+Usage: 61G
+Running Total (Sample): 123G
+---------------------------------
+Searching for directories starting with hash prefix: c5/d62183
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c5/d62183891afebfa789196d7d5ab884 to hash prefix c5/d62183 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c5/d62183891afebfa789196d7d5ab884
+Sample: COLO829-PB
+Usage: 109K
+Running Total (Sample): 123G
+---------------------------------
+Searching for directories starting with hash prefix: 6b/4695e3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6b/4695e3c0d11eead7937b178a115f55 to hash prefix 6b/4695e3 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6b/4695e3c0d11eead7937b178a115f55
+Sample: COLO829-PB
+Usage: 3.6M
+Running Total (Sample): 123G
+---------------------------------
+Searching for directories starting with hash prefix: 09/6aea38
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/09/6aea3859e9a09675a8ed3c587b8018 to hash prefix 09/6aea38 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/09/6aea3859e9a09675a8ed3c587b8018
+Sample: COLO829-PB
+Usage: 21K
+Running Total (Sample): 123G
+---------------------------------
+Searching for directories starting with hash prefix: 48/714a90
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/48/714a901634ce0634d9d6116d5eb41b to hash prefix 48/714a90 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/48/714a901634ce0634d9d6116d5eb41b
+Sample: COLO829-PB
+Usage: 20K
+Running Total (Sample): 123G
+---------------------------------
+Searching for directories starting with hash prefix: 10/69e8be
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/69e8be373a04886ee9735d96500727 to hash prefix 10/69e8be (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/69e8be373a04886ee9735d96500727
+Sample: COLO829-PB
+Usage: 1.6G
+Running Total (Sample): 125G
+---------------------------------
+Searching for directories starting with hash prefix: be/926bde
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/be/926bdeacdd4ad0e6f4e577f05ac499 to hash prefix be/926bde (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/be/926bdeacdd4ad0e6f4e577f05ac499
+Sample: COLO829-PB
+Usage: 14M
+Running Total (Sample): 125G
+---------------------------------
+Searching for directories starting with hash prefix: 8c/fd35c6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8c/fd35c6f84114d7771d717c4ccb328c to hash prefix 8c/fd35c6 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8c/fd35c6f84114d7771d717c4ccb328c
+Sample: COLO829-PB
+Usage: 74M
+Running Total (Sample): 125G
+---------------------------------
+Searching for directories starting with hash prefix: ac/3ab395
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/3ab3952e21f25b9dcee595b6928316 to hash prefix ac/3ab395 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ac/3ab3952e21f25b9dcee595b6928316
+Sample: COLO829-PB
+Usage: 14M
+Running Total (Sample): 125G
+---------------------------------
+Searching for directories starting with hash prefix: 9e/84e314
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9e/84e314d6aa67a11feea7f04111a5b3 to hash prefix 9e/84e314 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9e/84e314d6aa67a11feea7f04111a5b3
+Sample: COLO829-PB
+Usage: 65G
+Running Total (Sample): 189G
+---------------------------------
+Searching for directories starting with hash prefix: 6f/ea8fcb
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6f/ea8fcba45cb51f6e90b140cb5c8c78 to hash prefix 6f/ea8fcb (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6f/ea8fcba45cb51f6e90b140cb5c8c78
+Sample: COLO829-PB
+Usage: 27M
+Running Total (Sample): 189G
+---------------------------------
+Searching for directories starting with hash prefix: f8/87b033
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/87b0330640d2e413bf1e86b1892186 to hash prefix f8/87b033 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/87b0330640d2e413bf1e86b1892186
+Sample: COLO829-PB
+Usage: 67G
+Running Total (Sample): 256G
+---------------------------------
+Searching for directories starting with hash prefix: 52/2312dc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/2312dc650d162e487a62ca659e4c67 to hash prefix 52/2312dc (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/2312dc650d162e487a62ca659e4c67
+Sample: COLO829-PB
+Usage: 37M
+Running Total (Sample): 256G
+---------------------------------
+Searching for directories starting with hash prefix: c7/d42d37
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c7/d42d3706ceaaf108c8afc6474352d7 to hash prefix c7/d42d37 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c7/d42d3706ceaaf108c8afc6474352d7
+Sample: COLO829-PB
+Usage: 459M
+Running Total (Sample): 256G
+---------------------------------
+Searching for directories starting with hash prefix: f8/054ad7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/054ad711a06ea86fa378c90c837891 to hash prefix f8/054ad7 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/054ad711a06ea86fa378c90c837891
+Sample: COLO829-PB
+Usage: 246M
+Running Total (Sample): 256G
+---------------------------------
+Searching for directories starting with hash prefix: 3b/13a816
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3b/13a81671293ef69beabf6924fb9fcb to hash prefix 3b/13a816 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3b/13a81671293ef69beabf6924fb9fcb
+Sample: COLO829-PB
+Usage: 67M
+Running Total (Sample): 256G
+---------------------------------
+Searching for directories starting with hash prefix: a6/d1517c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/d1517cf43a6621c18cf085cdab8064 to hash prefix a6/d1517c (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/d1517cf43a6621c18cf085cdab8064
+Sample: COLO829-PB
+Usage: 2.9G
+Running Total (Sample): 259G
+---------------------------------
+Searching for directories starting with hash prefix: 3d/3bd2dc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/3bd2dc97153952b019d24eaadb8ff7 to hash prefix 3d/3bd2dc (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/3bd2dc97153952b019d24eaadb8ff7
+Sample: COLO829-PB
+Usage: 3.5M
+Running Total (Sample): 259G
+---------------------------------
+Searching for directories starting with hash prefix: e7/38d4c5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/38d4c551df39694878f06f0e9cc22e to hash prefix e7/38d4c5 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/38d4c551df39694878f06f0e9cc22e
+Sample: COLO829-PB
+Usage: 3.5M
+Running Total (Sample): 259G
+---------------------------------
+Searching for directories starting with hash prefix: d6/db97a8
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d6/db97a8a5a68defa940daac7f8d6bd8 to hash prefix d6/db97a8 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d6/db97a8a5a68defa940daac7f8d6bd8
+Sample: COLO829-PB
+Usage: 166M
+Running Total (Sample): 259G
+---------------------------------
+Searching for directories starting with hash prefix: 95/e5f907
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/95/e5f9070549f5064a5d37a61e822507 to hash prefix 95/e5f907 (sample: COLO829-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/95/e5f9070549f5064a5d37a61e822507
+Sample: COLO829-PB
+Usage: 11G
+Running Total (Sample): 270G
+---------------------------------
+Processing sample: Homo_sapiens_assembly38_masked_noALT.fasta
+---------------------------------
+Searching for directories starting with hash prefix: 3c/d8c3d4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3c/d8c3d478dbf04a6e213eed32a5e227 to hash prefix 3c/d8c3d4 (sample: Homo_sapiens_assembly38_masked_noALT.fasta)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3c/d8c3d478dbf04a6e213eed32a5e227
+Sample: Homo_sapiens_assembly38_masked_noALT.fasta
+Usage: 140K
+Running Total (Sample): 140K
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0
+---------------------------------
+Searching for directories starting with hash prefix: 9c/fdab1f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9c/fdab1ffdea3ccee95cb584654d4946 to hash prefix 9c/fdab1f (sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9c/fdab1ffdea3ccee95cb584654d4946
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0
+Usage: 72M
+Running Total (Sample): 72M
+---------------------------------
+Processing sample: HG008-ONT
+---------------------------------
+Searching for directories starting with hash prefix: 9d/c4d1a0
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9d/c4d1a01121fa570ac45730680d27e6 to hash prefix 9d/c4d1a0 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9d/c4d1a01121fa570ac45730680d27e6
+Sample: HG008-ONT
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 3d/dd46bf
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/dd46bf641a67953af5cbb3610653fb to hash prefix 3d/dd46bf (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3d/dd46bf641a67953af5cbb3610653fb
+Sample: HG008-ONT
+Usage: 21K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: f0/c2a13c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f0/c2a13c655a0c949f6208dfe62e32e9 to hash prefix f0/c2a13c (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f0/c2a13c655a0c949f6208dfe62e32e9
+Sample: HG008-ONT
+Usage: 20K
+Running Total (Sample): 61K
+---------------------------------
+Searching for directories starting with hash prefix: e7/d289de
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/d289de37ec1eae336b4619e7189cf2 to hash prefix e7/d289de (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e7/d289de37ec1eae336b4619e7189cf2
+Sample: HG008-ONT
+Usage: 20K
+Running Total (Sample): 80K
+---------------------------------
+Searching for directories starting with hash prefix: 91/9225c5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/91/9225c59b08ac38e268b40bc96b3daf to hash prefix 91/9225c5 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/91/9225c59b08ac38e268b40bc96b3daf
+Sample: HG008-ONT
+Usage: 65G
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: 55/1190fc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/55/1190fc37006cfede6da91ce8d05889 to hash prefix 55/1190fc (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/55/1190fc37006cfede6da91ce8d05889
+Sample: HG008-ONT
+Usage: 109K
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: 3e/1aadd1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3e/1aadd1cf1cd32222b608311a6e598b to hash prefix 3e/1aadd1 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3e/1aadd1cf1cd32222b608311a6e598b
+Sample: HG008-ONT
+Usage: 1.5M
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: 57/18430f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/57/18430f9376499d17a5bf972116fae9 to hash prefix 57/18430f (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/57/18430f9376499d17a5bf972116fae9
+Sample: HG008-ONT
+Usage: 21K
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: bc/3d4d7a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bc/3d4d7a1d8ddbb48e2dfc9ffa2e68c2 to hash prefix bc/3d4d7a (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bc/3d4d7a1d8ddbb48e2dfc9ffa2e68c2
+Sample: HG008-ONT
+Usage: 20K
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: 25/95d6a9
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/25/95d6a95a1c91e75639631defcd9b57 to hash prefix 25/95d6a9 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/25/95d6a95a1c91e75639631defcd9b57
+Sample: HG008-ONT
+Usage: 265M
+Running Total (Sample): 65G
+---------------------------------
+Searching for directories starting with hash prefix: 66/bea170
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/66/bea1706ef3649a6b56992affb3be07 to hash prefix 66/bea170 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/66/bea1706ef3649a6b56992affb3be07
+Sample: HG008-ONT
+Usage: 160G
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 82/f754f4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/82/f754f42f56089a3a9fc65782d99549 to hash prefix 82/f754f4 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/82/f754f42f56089a3a9fc65782d99549
+Sample: HG008-ONT
+Usage: 109K
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 79/643ebe
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/79/643ebee1410d8224cf9b9cb0985414 to hash prefix 79/643ebe (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/79/643ebee1410d8224cf9b9cb0985414
+Sample: HG008-ONT
+Usage: 3.0M
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 1c/38ff2b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1c/38ff2beed6fd29ebba1ca4b8ecfe86 to hash prefix 1c/38ff2b (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1c/38ff2beed6fd29ebba1ca4b8ecfe86
+Sample: HG008-ONT
+Usage: 21K
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 43/628c0b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/43/628c0ba2c9b4f7c5565120c3ffce25 to hash prefix 43/628c0b (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/43/628c0ba2c9b4f7c5565120c3ffce25
+Sample: HG008-ONT
+Usage: 20K
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 93/c10592
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/93/c10592f3d42553e93c8e73f3fd89d9 to hash prefix 93/c10592 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/93/c10592f3d42553e93c8e73f3fd89d9
+Sample: HG008-ONT
+Usage: 356M
+Running Total (Sample): 225G
+---------------------------------
+Searching for directories starting with hash prefix: 40/dd8b24
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/dd8b24c7de66244ca5d56d6754dd1a to hash prefix 40/dd8b24 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/dd8b24c7de66244ca5d56d6754dd1a
+Sample: HG008-ONT
+Usage: 29G
+Running Total (Sample): 254G
+---------------------------------
+Searching for directories starting with hash prefix: 1a/4c6e44
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1a/4c6e44fa0be7b0f13252f691946761 to hash prefix 1a/4c6e44 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1a/4c6e44fa0be7b0f13252f691946761
+Sample: HG008-ONT
+Usage: 90M
+Running Total (Sample): 254G
+---------------------------------
+Searching for directories starting with hash prefix: 29/6d4cd4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/6d4cd45104e7aac22bcb31ead9b421 to hash prefix 29/6d4cd4 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/29/6d4cd45104e7aac22bcb31ead9b421
+Sample: HG008-ONT
+Usage: 67G
+Running Total (Sample): 321G
+---------------------------------
+Searching for directories starting with hash prefix: eb/7c42e5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/eb/7c42e5d16b553c0cb48c28abc8e6a2 to hash prefix eb/7c42e5 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/eb/7c42e5d16b553c0cb48c28abc8e6a2
+Sample: HG008-ONT
+Usage: 21M
+Running Total (Sample): 321G
+---------------------------------
+Searching for directories starting with hash prefix: 65/d2286b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/65/d2286b49c414ab496958068daae389 to hash prefix 65/d2286b (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/65/d2286b49c414ab496958068daae389
+Sample: HG008-ONT
+Usage: 167G
+Running Total (Sample): 487G
+---------------------------------
+Searching for directories starting with hash prefix: 74/2ea5f9
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/74/2ea5f9a65449a235a04bafacd5b4ee to hash prefix 74/2ea5f9 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/74/2ea5f9a65449a235a04bafacd5b4ee
+Sample: HG008-ONT
+Usage: 41M
+Running Total (Sample): 487G
+---------------------------------
+Searching for directories starting with hash prefix: 4d/df9dc8
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4d/df9dc8bbb12d259ba8a3453f2deeb0 to hash prefix 4d/df9dc8 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4d/df9dc8bbb12d259ba8a3453f2deeb0
+Sample: HG008-ONT
+Usage: 290M
+Running Total (Sample): 487G
+---------------------------------
+Searching for directories starting with hash prefix: d5/0918d7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d5/0918d79683a60613fff64734574079 to hash prefix d5/0918d7 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d5/0918d79683a60613fff64734574079
+Sample: HG008-ONT
+Usage: 279M
+Running Total (Sample): 488G
+---------------------------------
+Searching for directories starting with hash prefix: e9/c78f1c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e9/c78f1c64c32eb9de0b7f2a273f14bf to hash prefix e9/c78f1c (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e9/c78f1c64c32eb9de0b7f2a273f14bf
+Sample: HG008-ONT
+Usage: 99M
+Running Total (Sample): 488G
+---------------------------------
+Searching for directories starting with hash prefix: dd/c1e469
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/dd/c1e4694b7fe7935f6328f958aa6561 to hash prefix dd/c1e469 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/dd/c1e4694b7fe7935f6328f958aa6561
+Sample: HG008-ONT
+Usage: 8.0G
+Running Total (Sample): 496G
+---------------------------------
+Searching for directories starting with hash prefix: 98/76cc66
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/98/76cc667707cf0a16d3d23b458addfb to hash prefix 98/76cc66 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/98/76cc667707cf0a16d3d23b458addfb
+Sample: HG008-ONT
+Usage: 3.4M
+Running Total (Sample): 496G
+---------------------------------
+Searching for directories starting with hash prefix: b0/cfd188
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/cfd188920ab5e25f3633877a291750 to hash prefix b0/cfd188 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/cfd188920ab5e25f3633877a291750
+Sample: HG008-ONT
+Usage: 3.4M
+Running Total (Sample): 496G
+---------------------------------
+Searching for directories starting with hash prefix: e4/ba4ad7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e4/ba4ad70e61899268d96035cb1ddfad to hash prefix e4/ba4ad7 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e4/ba4ad70e61899268d96035cb1ddfad
+Sample: HG008-ONT
+Usage: 224M
+Running Total (Sample): 496G
+---------------------------------
+Searching for directories starting with hash prefix: 6d/5b24a9
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6d/5b24a953b8410955d6407fbd85fa23 to hash prefix 6d/5b24a9 (sample: HG008-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6d/5b24a953b8410955d6407fbd85fa23
+Sample: HG008-ONT
+Usage: 13G
+Running Total (Sample): 508G
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0
+---------------------------------
+Searching for directories starting with hash prefix: eb/4ea1dc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/eb/4ea1dc949786b3ab0c836493ce1cfb to hash prefix eb/4ea1dc (sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/eb/4ea1dc949786b3ab0c836493ce1cfb
+Sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0
+Usage: 72M
+Running Total (Sample): 72M
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0
+---------------------------------
+Searching for directories starting with hash prefix: e4/06e6da
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e4/06e6da3ee28789dd6b5e1ec97c0a8f to hash prefix e4/06e6da (sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e4/06e6da3ee28789dd6b5e1ec97c0a8f
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0
+Usage: 72M
+Running Total (Sample): 72M
+---------------------------------
+Processing sample: CCS15-ONT
+---------------------------------
+Searching for directories starting with hash prefix: 7f/802edd
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7f/802edd29b702c6b13353bf6e61d6a3 to hash prefix 7f/802edd (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7f/802edd29b702c6b13353bf6e61d6a3
+Sample: CCS15-ONT
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 1b/e10425
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1b/e10425909dd5b9195908174873a7ff to hash prefix 1b/e10425 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1b/e10425909dd5b9195908174873a7ff
+Sample: CCS15-ONT
+Usage: 21K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: 4e/d57d6a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4e/d57d6abca3b94a3fb85f383b463eb0 to hash prefix 4e/d57d6a (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4e/d57d6abca3b94a3fb85f383b463eb0
+Sample: CCS15-ONT
+Usage: 20K
+Running Total (Sample): 60K
+---------------------------------
+Searching for directories starting with hash prefix: 1c/23b0eb
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1c/23b0eba14b493babc413f279827945 to hash prefix 1c/23b0eb (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/1c/23b0eba14b493babc413f279827945
+Sample: CCS15-ONT
+Usage: 20K
+Running Total (Sample): 80K
+---------------------------------
+Searching for directories starting with hash prefix: aa/56326c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/aa/56326ca03bd670302b464f53d1dfc8 to hash prefix aa/56326c (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/aa/56326ca03bd670302b464f53d1dfc8
+Sample: CCS15-ONT
+Usage: 72G
+Running Total (Sample): 72G
+---------------------------------
+Searching for directories starting with hash prefix: 08/9360cd
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/08/9360cd3ce4f962dcb667594366e6c7 to hash prefix 08/9360cd (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/08/9360cd3ce4f962dcb667594366e6c7
+Sample: CCS15-ONT
+Usage: 100G
+Running Total (Sample): 171G
+---------------------------------
+Searching for directories starting with hash prefix: 88/af5dd1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/88/af5dd124791b6df28929785a529c5b to hash prefix 88/af5dd1 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/88/af5dd124791b6df28929785a529c5b
+Sample: CCS15-ONT
+Usage: 72G
+Running Total (Sample): 243G
+---------------------------------
+Searching for directories starting with hash prefix: a2/d46c78
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a2/d46c783d9a1b414dfa3e78fe09b813 to hash prefix a2/d46c78 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a2/d46c783d9a1b414dfa3e78fe09b813
+Sample: CCS15-ONT
+Usage: 19M
+Running Total (Sample): 243G
+---------------------------------
+Searching for directories starting with hash prefix: ed/ea37bd
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/ea37bd0361cace4704a9e0dcb1115a to hash prefix ed/ea37bd (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/ea37bd0361cace4704a9e0dcb1115a
+Sample: CCS15-ONT
+Usage: 101G
+Running Total (Sample): 343G
+---------------------------------
+Searching for directories starting with hash prefix: 26/d6f1c5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/d6f1c518737f6f6e405dbdd0c5f21e to hash prefix 26/d6f1c5 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/d6f1c518737f6f6e405dbdd0c5f21e
+Sample: CCS15-ONT
+Usage: 109K
+Running Total (Sample): 343G
+---------------------------------
+Searching for directories starting with hash prefix: 50/a780d7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/50/a780d7a0078f12e7b7c72fef87e4ad to hash prefix 50/a780d7 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/50/a780d7a0078f12e7b7c72fef87e4ad
+Sample: CCS15-ONT
+Usage: 2.8M
+Running Total (Sample): 343G
+---------------------------------
+Searching for directories starting with hash prefix: 4c/4c30a6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4c/4c30a627d1f7028772d3d33060974b to hash prefix 4c/4c30a6 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4c/4c30a627d1f7028772d3d33060974b
+Sample: CCS15-ONT
+Usage: 21K
+Running Total (Sample): 343G
+---------------------------------
+Searching for directories starting with hash prefix: 75/270fc7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/270fc71a68fcaee47fcac703130fd0 to hash prefix 75/270fc7 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/270fc71a68fcaee47fcac703130fd0
+Sample: CCS15-ONT
+Usage: 20K
+Running Total (Sample): 343G
+---------------------------------
+Searching for directories starting with hash prefix: 03/d3b204
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/d3b204766b1b05f5b60f6de422f6c6 to hash prefix 03/d3b204 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/d3b204766b1b05f5b60f6de422f6c6
+Sample: CCS15-ONT
+Usage: 384M
+Running Total (Sample): 344G
+---------------------------------
+Searching for directories starting with hash prefix: 60/5785d9
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/60/5785d9a069d4007e8367f3681287bf to hash prefix 60/5785d9 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/60/5785d9a069d4007e8367f3681287bf
+Sample: CCS15-ONT
+Usage: 100G
+Running Total (Sample): 443G
+---------------------------------
+Searching for directories starting with hash prefix: b1/c19644
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/c1964460e271278b4e1403460aaab6 to hash prefix b1/c19644 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/c1964460e271278b4e1403460aaab6
+Sample: CCS15-ONT
+Usage: 25M
+Running Total (Sample): 443G
+---------------------------------
+Searching for directories starting with hash prefix: 27/afac99
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/27/afac99f7d5a97e52543ffb4739e3fe to hash prefix 27/afac99 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/27/afac99f7d5a97e52543ffb4739e3fe
+Sample: CCS15-ONT
+Usage: 136G
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 7a/485866
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/48586625afb4e3c224abde56a3240e to hash prefix 7a/485866 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/48586625afb4e3c224abde56a3240e
+Sample: CCS15-ONT
+Usage: 110K
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 23/f44a71
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/23/f44a71cfb5e61c9c1b61bb8b5b0199 to hash prefix 23/f44a71 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/23/f44a71cfb5e61c9c1b61bb8b5b0199
+Sample: CCS15-ONT
+Usage: 3.5M
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 5b/e208e7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5b/e208e790d0367234f3e480a8ddb153 to hash prefix 5b/e208e7 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5b/e208e790d0367234f3e480a8ddb153
+Sample: CCS15-ONT
+Usage: 21K
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 47/fe013d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/47/fe013def60ca4f5f082ce71c748629 to hash prefix 47/fe013d (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/47/fe013def60ca4f5f082ce71c748629
+Sample: CCS15-ONT
+Usage: 20K
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 81/07a373
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/81/07a373741fcac1fb4cceba34d86d2a to hash prefix 81/07a373 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/81/07a373741fcac1fb4cceba34d86d2a
+Sample: CCS15-ONT
+Usage: 365M
+Running Total (Sample): 579G
+---------------------------------
+Searching for directories starting with hash prefix: 14/05d858
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/14/05d8589ce99aa753f188741ed47272 to hash prefix 14/05d858 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/14/05d8589ce99aa753f188741ed47272
+Sample: CCS15-ONT
+Usage: 4.6G
+Running Total (Sample): 584G
+---------------------------------
+Searching for directories starting with hash prefix: ed/630da6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/630da64833c213094e68aa61178f2d to hash prefix ed/630da6 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/630da64833c213094e68aa61178f2d
+Sample: CCS15-ONT
+Usage: 82M
+Running Total (Sample): 584G
+---------------------------------
+Searching for directories starting with hash prefix: 58/3cefc3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/3cefc3118e6f4862c7600a86752f63 to hash prefix 58/3cefc3 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/3cefc3118e6f4862c7600a86752f63
+Sample: CCS15-ONT
+Usage: 105G
+Running Total (Sample): 688G
+---------------------------------
+Searching for directories starting with hash prefix: d7/f7a019
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d7/f7a01998c5fcf1b3b47ac31a554ca5 to hash prefix d7/f7a019 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d7/f7a01998c5fcf1b3b47ac31a554ca5
+Sample: CCS15-ONT
+Usage: 39M
+Running Total (Sample): 688G
+---------------------------------
+Searching for directories starting with hash prefix: e6/476098
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/476098594d526c621080361e4740de to hash prefix e6/476098 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/476098594d526c621080361e4740de
+Sample: CCS15-ONT
+Usage: 142G
+Running Total (Sample): 829G
+---------------------------------
+Searching for directories starting with hash prefix: 99/b8819b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/b8819b73d6965cee02ea4501265cf3 to hash prefix 99/b8819b (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/b8819b73d6965cee02ea4501265cf3
+Sample: CCS15-ONT
+Usage: 48M
+Running Total (Sample): 829G
+---------------------------------
+Searching for directories starting with hash prefix: ec/1b9a8c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ec/1b9a8cbde721fef7a5e228056fc871 to hash prefix ec/1b9a8c (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ec/1b9a8cbde721fef7a5e228056fc871
+Sample: CCS15-ONT
+Usage: 457M
+Running Total (Sample): 830G
+---------------------------------
+Searching for directories starting with hash prefix: c8/ae71f2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c8/ae71f2462f5eb80b0fa95002008681 to hash prefix c8/ae71f2 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c8/ae71f2462f5eb80b0fa95002008681
+Sample: CCS15-ONT
+Usage: 233M
+Running Total (Sample): 830G
+---------------------------------
+Searching for directories starting with hash prefix: a6/c3e147
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/c3e147008f2fb815d7392b8cf3e479 to hash prefix a6/c3e147 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/c3e147008f2fb815d7392b8cf3e479
+Sample: CCS15-ONT
+Usage: 99M
+Running Total (Sample): 830G
+---------------------------------
+Searching for directories starting with hash prefix: 4b/d1144f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/d1144f25f80760153ab19313d35318 to hash prefix 4b/d1144f (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/d1144f25f80760153ab19313d35318
+Sample: CCS15-ONT
+Usage: 1.9G
+Running Total (Sample): 832G
+---------------------------------
+Searching for directories starting with hash prefix: 10/949415
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/94941575fa21d43795e3269899fa92 to hash prefix 10/949415 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/10/94941575fa21d43795e3269899fa92
+Sample: CCS15-ONT
+Usage: 214K
+Running Total (Sample): 832G
+---------------------------------
+Searching for directories starting with hash prefix: 77/02e692
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/77/02e692a85c88c8eb421c6bfe59d559 to hash prefix 77/02e692 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/77/02e692a85c88c8eb421c6bfe59d559
+Sample: CCS15-ONT
+Usage: 213K
+Running Total (Sample): 832G
+---------------------------------
+Searching for directories starting with hash prefix: 86/97ac60
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/86/97ac60430d422031b727a4165d6fef to hash prefix 86/97ac60 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/86/97ac60430d422031b727a4165d6fef
+Sample: CCS15-ONT
+Usage: 9.7M
+Running Total (Sample): 832G
+---------------------------------
+Searching for directories starting with hash prefix: e6/423021
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/423021d0852d543316e8e73722468e to hash prefix e6/423021 (sample: CCS15-ONT)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/423021d0852d543316e8e73722468e
+Sample: CCS15-ONT
+Usage: 11G
+Running Total (Sample): 842G
+---------------------------------
+Processing sample: CCS15-PB-TO
+---------------------------------
+Searching for directories starting with hash prefix: 30/b756be
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/30/b756bece788d715f3d7214038bd6e3 to hash prefix 30/b756be (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/30/b756bece788d715f3d7214038bd6e3
+Sample: CCS15-PB-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: e5/768dc3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e5/768dc37ac0da4405d0a532335aa14f to hash prefix e5/768dc3 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e5/768dc37ac0da4405d0a532335aa14f
+Sample: CCS15-PB-TO
+Usage: 20K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: 7a/442a90
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/442a906cb178a1faf2119586545e1f to hash prefix 7a/442a90 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/442a906cb178a1faf2119586545e1f
+Sample: CCS15-PB-TO
+Usage: 56G
+Running Total (Sample): 56G
+---------------------------------
+Searching for directories starting with hash prefix: c0/8c88b2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/8c88b2f3dc52d8f548d0c863d11ca0 to hash prefix c0/8c88b2 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/8c88b2f3dc52d8f548d0c863d11ca0
+Sample: CCS15-PB-TO
+Usage: 56G
+Running Total (Sample): 112G
+---------------------------------
+Searching for directories starting with hash prefix: ff/efca3d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ff/efca3d9f7c971477d17be97c4f5fd4 to hash prefix ff/efca3d (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ff/efca3d9f7c971477d17be97c4f5fd4
+Sample: CCS15-PB-TO
+Usage: 56G
+Running Total (Sample): 167G
+---------------------------------
+Searching for directories starting with hash prefix: 73/556915
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/55691504d147c5be5d9175e8642ac8 to hash prefix 73/556915 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/73/55691504d147c5be5d9175e8642ac8
+Sample: CCS15-PB-TO
+Usage: 22M
+Running Total (Sample): 168G
+---------------------------------
+Searching for directories starting with hash prefix: f7/8b290d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f7/8b290d5f75c891cec43b734410cd43 to hash prefix f7/8b290d (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f7/8b290d5f75c891cec43b734410cd43
+Sample: CCS15-PB-TO
+Usage: 62G
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: 7e/e44661
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7e/e44661b5f586ed677d007ce2f5cadc to hash prefix 7e/e44661 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7e/e44661b5f586ed677d007ce2f5cadc
+Sample: CCS15-PB-TO
+Usage: 109K
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: e2/5ab7b3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/5ab7b3ff13a104080ffec1a599d038 to hash prefix e2/5ab7b3 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/5ab7b3ff13a104080ffec1a599d038
+Sample: CCS15-PB-TO
+Usage: 3.0M
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: 40/236a28
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/236a285af365d9a6e89ac8830be326 to hash prefix 40/236a28 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/236a285af365d9a6e89ac8830be326
+Sample: CCS15-PB-TO
+Usage: 21K
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: 63/66faf1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/63/66faf1c471bfd70b5d2905c9bfc413 to hash prefix 63/66faf1 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/63/66faf1c471bfd70b5d2905c9bfc413
+Sample: CCS15-PB-TO
+Usage: 20K
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: b1/a624ac
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/a624ac1d15cbda355b4dc31559cd13 to hash prefix b1/a624ac (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/a624ac1d15cbda355b4dc31559cd13
+Sample: CCS15-PB-TO
+Usage: 16M
+Running Total (Sample): 229G
+---------------------------------
+Searching for directories starting with hash prefix: 87/58f954
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/87/58f95410d2df23e57a7efbe8608751 to hash prefix 87/58f954 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/87/58f95410d2df23e57a7efbe8608751
+Sample: CCS15-PB-TO
+Usage: 74G
+Running Total (Sample): 303G
+---------------------------------
+Searching for directories starting with hash prefix: 72/25be4d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/72/25be4de356a0b804e0f07c69641a63 to hash prefix 72/25be4d (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/72/25be4de356a0b804e0f07c69641a63
+Sample: CCS15-PB-TO
+Usage: 356M
+Running Total (Sample): 304G
+---------------------------------
+Searching for directories starting with hash prefix: 00/c81661
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/00/c81661751466832c3fc1c02f922382 to hash prefix 00/c81661 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/00/c81661751466832c3fc1c02f922382
+Sample: CCS15-PB-TO
+Usage: 121M
+Running Total (Sample): 304G
+---------------------------------
+Searching for directories starting with hash prefix: b9/99a98c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b9/99a98c01930776d0efc08c39f7162e to hash prefix b9/99a98c (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b9/99a98c01930776d0efc08c39f7162e
+Sample: CCS15-PB-TO
+Usage: 208M
+Running Total (Sample): 304G
+---------------------------------
+Searching for directories starting with hash prefix: 2d/6f6c71
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2d/6f6c71cf7584597ef2d1049827bb6e to hash prefix 2d/6f6c71 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2d/6f6c71cf7584597ef2d1049827bb6e
+Sample: CCS15-PB-TO
+Usage: 63G
+Running Total (Sample): 366G
+---------------------------------
+Searching for directories starting with hash prefix: 7c/701c27
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7c/701c27d9c62a94af9099fb3ea1851d to hash prefix 7c/701c27 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7c/701c27d9c62a94af9099fb3ea1851d
+Sample: CCS15-PB-TO
+Usage: 17M
+Running Total (Sample): 367G
+---------------------------------
+Searching for directories starting with hash prefix: 4b/a01ab3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/a01ab3bbc96a6c88d34b1490df89af to hash prefix 4b/a01ab3 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/a01ab3bbc96a6c88d34b1490df89af
+Sample: CCS15-PB-TO
+Usage: 273M
+Running Total (Sample): 367G
+---------------------------------
+Searching for directories starting with hash prefix: c6/bf3e17
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/bf3e1711ba8957918f284113f5324e to hash prefix c6/bf3e17 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c6/bf3e1711ba8957918f284113f5324e
+Sample: CCS15-PB-TO
+Usage: 231M
+Running Total (Sample): 367G
+---------------------------------
+Searching for directories starting with hash prefix: 32/bda41f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/32/bda41f3bef4a69c36ab5346f0d4280 to hash prefix 32/bda41f (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/32/bda41f3bef4a69c36ab5346f0d4280
+Sample: CCS15-PB-TO
+Usage: 84M
+Running Total (Sample): 367G
+---------------------------------
+Searching for directories starting with hash prefix: 58/9f8944
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/9f8944c276ea9ab124e573b1549d80 to hash prefix 58/9f8944 (sample: CCS15-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/9f8944c276ea9ab124e573b1549d80
+Sample: CCS15-PB-TO
+Usage: 10G
+Running Total (Sample): 377G
+---------------------------------
+Processing sample: hifi_revio
+---------------------------------
+Searching for directories starting with hash prefix: 49/19f7e4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/49/19f7e438c875812aa2c63096b54a77 to hash prefix 49/19f7e4 (sample: hifi_revio)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/49/19f7e438c875812aa2c63096b54a77
+Sample: hifi_revio
+Usage: 61M
+Running Total (Sample): 61M
+---------------------------------
+Processing sample: COLO829-PB-TO
+---------------------------------
+Searching for directories starting with hash prefix: 52/1578c4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/1578c489a43693d4e4ff710d780c26 to hash prefix 52/1578c4 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/52/1578c489a43693d4e4ff710d780c26
+Sample: COLO829-PB-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 3c/345759
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3c/345759fc9e48ea2cfe60bab92d71b8 to hash prefix 3c/345759 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3c/345759fc9e48ea2cfe60bab92d71b8
+Sample: COLO829-PB-TO
+Usage: 20K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: f8/680a33
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/680a33df06286cb5849bf5a9dcd81e to hash prefix f8/680a33 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f8/680a33df06286cb5849bf5a9dcd81e
+Sample: COLO829-PB-TO
+Usage: 61G
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: 23/7a5e66
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/23/7a5e66a6d9fa166150c625c0bb991a to hash prefix 23/7a5e66 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/23/7a5e66a6d9fa166150c625c0bb991a
+Sample: COLO829-PB-TO
+Usage: 109K
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: bf/a5b6aa
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bf/a5b6aa8e5e4ea4e3500b53a688bbe0 to hash prefix bf/a5b6aa (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/bf/a5b6aa8e5e4ea4e3500b53a688bbe0
+Sample: COLO829-PB-TO
+Usage: 3.6M
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: 7f/c67a27
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7f/c67a279bdc6cafcbb4d7bffcf25437 to hash prefix 7f/c67a27 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7f/c67a279bdc6cafcbb4d7bffcf25437
+Sample: COLO829-PB-TO
+Usage: 21K
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: 08/8392de
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/08/8392debdb694137ddd0d2baf1f9d63 to hash prefix 08/8392de (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/08/8392debdb694137ddd0d2baf1f9d63
+Sample: COLO829-PB-TO
+Usage: 20K
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: 62/375282
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/62/375282eb609890c2b3fc088027aea8 to hash prefix 62/375282 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/62/375282eb609890c2b3fc088027aea8
+Sample: COLO829-PB-TO
+Usage: 14M
+Running Total (Sample): 61G
+---------------------------------
+Searching for directories starting with hash prefix: a6/56fb9d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/56fb9d07a6bccace1d6aab390cfd11 to hash prefix a6/56fb9d (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/56fb9d07a6bccace1d6aab390cfd11
+Sample: COLO829-PB-TO
+Usage: 67G
+Running Total (Sample): 127G
+---------------------------------
+Searching for directories starting with hash prefix: 55/343f6d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/55/343f6d4ce1f97aa0de7d0dbc2bded7 to hash prefix 55/343f6d (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/55/343f6d4ce1f97aa0de7d0dbc2bded7
+Sample: COLO829-PB-TO
+Usage: 311M
+Running Total (Sample): 128G
+---------------------------------
+Searching for directories starting with hash prefix: 0f/515721
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0f/515721d1bb221cab760945ff0183d2 to hash prefix 0f/515721 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0f/515721d1bb221cab760945ff0183d2
+Sample: COLO829-PB-TO
+Usage: 59M
+Running Total (Sample): 128G
+---------------------------------
+Searching for directories starting with hash prefix: 85/3f8ab3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/85/3f8ab31dbbc7208812296a505c6838 to hash prefix 85/3f8ab3 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/85/3f8ab31dbbc7208812296a505c6838
+Sample: COLO829-PB-TO
+Usage: 106M
+Running Total (Sample): 128G
+---------------------------------
+Searching for directories starting with hash prefix: a3/3e5bdf
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a3/3e5bdf5602116a2935932bcbd63cb2 to hash prefix a3/3e5bdf (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a3/3e5bdf5602116a2935932bcbd63cb2
+Sample: COLO829-PB-TO
+Usage: 61G
+Running Total (Sample): 188G
+---------------------------------
+Searching for directories starting with hash prefix: f9/0225ae
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f9/0225ae7a1a1422343e124d4e5e385f to hash prefix f9/0225ae (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f9/0225ae7a1a1422343e124d4e5e385f
+Sample: COLO829-PB-TO
+Usage: 26M
+Running Total (Sample): 188G
+---------------------------------
+Searching for directories starting with hash prefix: 22/1ab73c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/22/1ab73cecde8b15e6a86a188153fda2 to hash prefix 22/1ab73c (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/22/1ab73cecde8b15e6a86a188153fda2
+Sample: COLO829-PB-TO
+Usage: 266M
+Running Total (Sample): 188G
+---------------------------------
+Searching for directories starting with hash prefix: 2a/b2db62
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2a/b2db622d6e70ddc6445886c4b59834 to hash prefix 2a/b2db62 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2a/b2db622d6e70ddc6445886c4b59834
+Sample: COLO829-PB-TO
+Usage: 127M
+Running Total (Sample): 188G
+---------------------------------
+Searching for directories starting with hash prefix: b0/41fc62
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/41fc626ad392b93773cd8a3eaa9103 to hash prefix b0/41fc62 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/41fc626ad392b93773cd8a3eaa9103
+Sample: COLO829-PB-TO
+Usage: 49M
+Running Total (Sample): 188G
+---------------------------------
+Searching for directories starting with hash prefix: 56/25cfd7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/25cfd7547dc782b92a73dc2bcc7868 to hash prefix 56/25cfd7 (sample: COLO829-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/56/25cfd7547dc782b92a73dc2bcc7868
+Sample: COLO829-PB-TO
+Usage: 9.1G
+Running Total (Sample): 197G
+---------------------------------
+Processing sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0.tar.gz
+---------------------------------
+Searching for directories starting with hash prefix: 58/224f66
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/224f66580758f969d1d3035f333c85 to hash prefix 58/224f66 (sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0.tar.gz)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/58/224f66580758f969d1d3035f333c85
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0.tar.gz
+Usage: 78M
+Running Total (Sample): 78M
+---------------------------------
+Processing sample: HG008-PB-TO
+---------------------------------
+Searching for directories starting with hash prefix: 4b/122029
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/12202925297e174df1576e95e69785 to hash prefix 4b/122029 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4b/12202925297e174df1576e95e69785
+Sample: HG008-PB-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 68/7595b4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/7595b46a9cda517c53e1b7faaaca86 to hash prefix 68/7595b4 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/7595b46a9cda517c53e1b7faaaca86
+Sample: HG008-PB-TO
+Usage: 20K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: 7a/6dedf3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/6dedf3578bbf7c09e8f28c5f9a2ae7 to hash prefix 7a/6dedf3 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/6dedf3578bbf7c09e8f28c5f9a2ae7
+Sample: HG008-PB-TO
+Usage: 58G
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: 24/b13d71
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/24/b13d71c37a929f74965ef6513e3b93 to hash prefix 24/b13d71 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/24/b13d71c37a929f74965ef6513e3b93
+Sample: HG008-PB-TO
+Usage: 109K
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: 98/81a9f6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/98/81a9f6f8cac6cb4875c20e22ac9f51 to hash prefix 98/81a9f6 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/98/81a9f6f8cac6cb4875c20e22ac9f51
+Sample: HG008-PB-TO
+Usage: 2.9M
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: 21/f1d648
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/f1d64878439f527b076ec3618d08d2 to hash prefix 21/f1d648 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/f1d64878439f527b076ec3618d08d2
+Sample: HG008-PB-TO
+Usage: 21K
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: 99/592d2f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/592d2f04deb0d9ce3bfa583fb10f9b to hash prefix 99/592d2f (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/99/592d2f04deb0d9ce3bfa583fb10f9b
+Sample: HG008-PB-TO
+Usage: 20K
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: af/42703f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/af/42703fb51bc447373c3213059cdc5e to hash prefix af/42703f (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/af/42703fb51bc447373c3213059cdc5e
+Sample: HG008-PB-TO
+Usage: 15M
+Running Total (Sample): 58G
+---------------------------------
+Searching for directories starting with hash prefix: a8/8a72e3
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a8/8a72e361abca2ed34300a8ec252f8c to hash prefix a8/8a72e3 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a8/8a72e361abca2ed34300a8ec252f8c
+Sample: HG008-PB-TO
+Usage: 66G
+Running Total (Sample): 124G
+---------------------------------
+Searching for directories starting with hash prefix: 3a/b0873a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3a/b0873a5662954f476ad93932b5f248 to hash prefix 3a/b0873a (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3a/b0873a5662954f476ad93932b5f248
+Sample: HG008-PB-TO
+Usage: 287M
+Running Total (Sample): 124G
+---------------------------------
+Searching for directories starting with hash prefix: 96/ad66e6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/ad66e6c21d645e1e34218203d1d2db to hash prefix 96/ad66e6 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/96/ad66e6c21d645e1e34218203d1d2db
+Sample: HG008-PB-TO
+Usage: 98M
+Running Total (Sample): 124G
+---------------------------------
+Searching for directories starting with hash prefix: e2/a66fb6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/a66fb692dab09e0bf68d4e7d0b73f5 to hash prefix e2/a66fb6 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/a66fb692dab09e0bf68d4e7d0b73f5
+Sample: HG008-PB-TO
+Usage: 47M
+Running Total (Sample): 124G
+---------------------------------
+Searching for directories starting with hash prefix: b7/f843f4
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b7/f843f4ff72bd18d7a6f811388bfb79 to hash prefix b7/f843f4 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b7/f843f4ff72bd18d7a6f811388bfb79
+Sample: HG008-PB-TO
+Usage: 60G
+Running Total (Sample): 184G
+---------------------------------
+Searching for directories starting with hash prefix: e0/ed351b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/ed351bcde728d5661722e3e124c8e0 to hash prefix e0/ed351b (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/ed351bcde728d5661722e3e124c8e0
+Sample: HG008-PB-TO
+Usage: 12M
+Running Total (Sample): 184G
+---------------------------------
+Searching for directories starting with hash prefix: b7/ac5da0
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b7/ac5da028a1157eb4e79e4ceec38bef to hash prefix b7/ac5da0 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b7/ac5da028a1157eb4e79e4ceec38bef
+Sample: HG008-PB-TO
+Usage: 261M
+Running Total (Sample): 184G
+---------------------------------
+Searching for directories starting with hash prefix: e6/b7e8e2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/b7e8e24a1a3c3a8095901f1e6afa5d to hash prefix e6/b7e8e2 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e6/b7e8e24a1a3c3a8095901f1e6afa5d
+Sample: HG008-PB-TO
+Usage: 150M
+Running Total (Sample): 184G
+---------------------------------
+Searching for directories starting with hash prefix: 31/dff191
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/31/dff1913e46184458e363ad77962880 to hash prefix 31/dff191 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/31/dff1913e46184458e363ad77962880
+Sample: HG008-PB-TO
+Usage: 65M
+Running Total (Sample): 184G
+---------------------------------
+Searching for directories starting with hash prefix: de/b39c58
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/de/b39c58da931714db35a95ada17f84c to hash prefix de/b39c58 (sample: HG008-PB-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/de/b39c58da931714db35a95ada17f84c
+Sample: HG008-PB-TO
+Usage: 8.7G
+Running Total (Sample): 193G
+---------------------------------
+Processing sample: COLO829-ONT-TO
+---------------------------------
+Searching for directories starting with hash prefix: 7a/63a6ca
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/63a6ca320fc09744244beda47cfe4f to hash prefix 7a/63a6ca (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/63a6ca320fc09744244beda47cfe4f
+Sample: COLO829-ONT-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 05/a64452
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/05/a6445289f577f5d2a627aee9e7b1eb to hash prefix 05/a64452 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/05/a6445289f577f5d2a627aee9e7b1eb
+Sample: COLO829-ONT-TO
+Usage: 20K
+Running Total (Sample): 40K
+---------------------------------
+Searching for directories starting with hash prefix: ef/b870f2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/b870f2dcedeb549b4866201136c242 to hash prefix ef/b870f2 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/b870f2dcedeb549b4866201136c242
+Sample: COLO829-ONT-TO
+Usage: 120G
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: 2c/04045f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2c/04045f270c604e2b8041dc6e9cdd50 to hash prefix 2c/04045f (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2c/04045f270c604e2b8041dc6e9cdd50
+Sample: COLO829-ONT-TO
+Usage: 109K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: a0/6c3a93
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/6c3a93cba6802bbf7cf847fd33805c to hash prefix a0/6c3a93 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/6c3a93cba6802bbf7cf847fd33805c
+Sample: COLO829-ONT-TO
+Usage: 3.4M
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: f3/94f82c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f3/94f82cd5a129fad3e0fdb42e3c5902 to hash prefix f3/94f82c (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f3/94f82cd5a129fad3e0fdb42e3c5902
+Sample: COLO829-ONT-TO
+Usage: 21K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: b1/77ee81
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/77ee811ffc2ce2305890458dd210da to hash prefix b1/77ee81 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/77ee811ffc2ce2305890458dd210da
+Sample: COLO829-ONT-TO
+Usage: 20K
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: 40/082303
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/0823032cde349d7a7a41646b3921eb to hash prefix 40/082303 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/40/0823032cde349d7a7a41646b3921eb
+Sample: COLO829-ONT-TO
+Usage: 114M
+Running Total (Sample): 120G
+---------------------------------
+Searching for directories starting with hash prefix: fa/2a2f25
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/fa/2a2f257e6d0985b794e7b9d8ca3c37 to hash prefix fa/2a2f25 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/fa/2a2f257e6d0985b794e7b9d8ca3c37
+Sample: COLO829-ONT-TO
+Usage: 118G
+Running Total (Sample): 237G
+---------------------------------
+Searching for directories starting with hash prefix: 2e/f1f1aa
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2e/f1f1aa2ef91411cc1bcc6daf2c41fa to hash prefix 2e/f1f1aa (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/2e/f1f1aa2ef91411cc1bcc6daf2c41fa
+Sample: COLO829-ONT-TO
+Usage: 252M
+Running Total (Sample): 237G
+---------------------------------
+Searching for directories starting with hash prefix: a8/757400
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a8/757400364cb21fc9349e22bcb191a6 to hash prefix a8/757400 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a8/757400364cb21fc9349e22bcb191a6
+Sample: COLO829-ONT-TO
+Usage: 85M
+Running Total (Sample): 238G
+---------------------------------
+Searching for directories starting with hash prefix: 12/1343c1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/12/1343c1aae9670988e379b5a277ed73 to hash prefix 12/1343c1 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/12/1343c1aae9670988e379b5a277ed73
+Sample: COLO829-ONT-TO
+Usage: 70M
+Running Total (Sample): 238G
+---------------------------------
+Searching for directories starting with hash prefix: b1/ca7945
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/ca79453377ee0494d359b697bbde3d to hash prefix b1/ca7945 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b1/ca79453377ee0494d359b697bbde3d
+Sample: COLO829-ONT-TO
+Usage: 112G
+Running Total (Sample): 349G
+---------------------------------
+Searching for directories starting with hash prefix: f6/f454b0
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f6/f454b0219fc773d6bda5254898f6ed to hash prefix f6/f454b0 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f6/f454b0219fc773d6bda5254898f6ed
+Sample: COLO829-ONT-TO
+Usage: 40M
+Running Total (Sample): 349G
+---------------------------------
+Searching for directories starting with hash prefix: ab/a96e50
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ab/a96e50ca8a5aac8f4382356d04ecf8 to hash prefix ab/a96e50 (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ab/a96e50ca8a5aac8f4382356d04ecf8
+Sample: COLO829-ONT-TO
+Usage: 266M
+Running Total (Sample): 349G
+---------------------------------
+Searching for directories starting with hash prefix: 8e/d01cca
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8e/d01ccab3c65e2d263cace3bb53b83c to hash prefix 8e/d01cca (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8e/d01ccab3c65e2d263cace3bb53b83c
+Sample: COLO829-ONT-TO
+Usage: 189M
+Running Total (Sample): 349G
+---------------------------------
+Searching for directories starting with hash prefix: 6b/e8e0de
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6b/e8e0de186c3fb9ceaa36d72642ae25 to hash prefix 6b/e8e0de (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/6b/e8e0de186c3fb9ceaa36d72642ae25
+Sample: COLO829-ONT-TO
+Usage: 64M
+Running Total (Sample): 349G
+---------------------------------
+Searching for directories starting with hash prefix: 69/3450fb
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/69/3450fb29bd39ad4a431e4b59717b6e to hash prefix 69/3450fb (sample: COLO829-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/69/3450fb29bd39ad4a431e4b59717b6e
+Sample: COLO829-ONT-TO
+Usage: 7.3G
+Running Total (Sample): 357G
+---------------------------------
+Processing sample: r1041_e82_400bps_sup_v420
+---------------------------------
+Searching for directories starting with hash prefix: 3f/b29bcc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3f/b29bcceac919e6db136be3340bc128 to hash prefix 3f/b29bcc (sample: r1041_e82_400bps_sup_v420)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/3f/b29bcceac919e6db136be3340bc128
+Sample: r1041_e82_400bps_sup_v420
+Usage: 72M
+Running Total (Sample): 72M
+---------------------------------
+Processing sample: HG008-ONT-TO
+---------------------------------
+Searching for directories starting with hash prefix: e3/a4d76a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/a4d76ad682deadb12cd25a30a982f3 to hash prefix e3/a4d76a (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e3/a4d76ad682deadb12cd25a30a982f3
+Sample: HG008-ONT-TO
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: 4e/6d6919
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4e/6d691985468b4cd36f3f3aeb9aca35 to hash prefix 4e/6d6919 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/4e/6d691985468b4cd36f3f3aeb9aca35
+Sample: HG008-ONT-TO
+Usage: 20K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: 69/c8a886
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/69/c8a88641387de139200ed90e1de34d to hash prefix 69/c8a886 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/69/c8a88641387de139200ed90e1de34d
+Sample: HG008-ONT-TO
+Usage: 160G
+Running Total (Sample): 160G
+---------------------------------
+Searching for directories starting with hash prefix: ed/911258
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/911258ba2e24e1c83db95429ee3c3f to hash prefix ed/911258 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ed/911258ba2e24e1c83db95429ee3c3f
+Sample: HG008-ONT-TO
+Usage: 109K
+Running Total (Sample): 160G
+---------------------------------
+Searching for directories starting with hash prefix: 75/00e3d7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/00e3d7f535187fa5c84acf1eb77d9b to hash prefix 75/00e3d7 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/75/00e3d7f535187fa5c84acf1eb77d9b
+Sample: HG008-ONT-TO
+Usage: 3.0M
+Running Total (Sample): 160G
+---------------------------------
+Searching for directories starting with hash prefix: e9/b51259
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e9/b51259a31a0ba994d9e0d32859d639 to hash prefix e9/b51259 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e9/b51259a31a0ba994d9e0d32859d639
+Sample: HG008-ONT-TO
+Usage: 21K
+Running Total (Sample): 160G
+---------------------------------
+Searching for directories starting with hash prefix: 68/735c48
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/735c48884e0080d7dfa7bb0b4ca533 to hash prefix 68/735c48 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/735c48884e0080d7dfa7bb0b4ca533
+Sample: HG008-ONT-TO
+Usage: 20K
+Running Total (Sample): 160G
+---------------------------------
+Searching for directories starting with hash prefix: f1/699ca6
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/699ca60082ad32a52e74c6b153c823 to hash prefix f1/699ca6 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f1/699ca60082ad32a52e74c6b153c823
+Sample: HG008-ONT-TO
+Usage: 356M
+Running Total (Sample): 161G
+---------------------------------
+Searching for directories starting with hash prefix: e0/31658a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/31658a2b7d48db17198cd7cb65a237 to hash prefix e0/31658a (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/31658a2b7d48db17198cd7cb65a237
+Sample: HG008-ONT-TO
+Usage: 158G
+Running Total (Sample): 318G
+---------------------------------
+Searching for directories starting with hash prefix: 21/e23f6b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/e23f6b56a98eb70d6cbc3b6f512f89 to hash prefix 21/e23f6b (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/21/e23f6b56a98eb70d6cbc3b6f512f89
+Sample: HG008-ONT-TO
+Usage: 250M
+Running Total (Sample): 318G
+---------------------------------
+Searching for directories starting with hash prefix: c4/3aacba
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c4/3aacba7b932804bb7cd2d0a21ea637 to hash prefix c4/3aacba (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c4/3aacba7b932804bb7cd2d0a21ea637
+Sample: HG008-ONT-TO
+Usage: 40M
+Running Total (Sample): 318G
+---------------------------------
+Searching for directories starting with hash prefix: e0/66ac52
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/66ac52f1ca1402558037bec8226651 to hash prefix e0/66ac52 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e0/66ac52f1ca1402558037bec8226651
+Sample: HG008-ONT-TO
+Usage: 85M
+Running Total (Sample): 318G
+---------------------------------
+Searching for directories starting with hash prefix: 26/dcd8f5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/dcd8f5ea579080b03f2091ac876282 to hash prefix 26/dcd8f5 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/26/dcd8f5ea579080b03f2091ac876282
+Sample: HG008-ONT-TO
+Usage: 152G
+Running Total (Sample): 470G
+---------------------------------
+Searching for directories starting with hash prefix: 0b/1eb97f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0b/1eb97f9ac744d24400a2d7b4d5047c to hash prefix 0b/1eb97f (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/0b/1eb97f9ac744d24400a2d7b4d5047c
+Sample: HG008-ONT-TO
+Usage: 39M
+Running Total (Sample): 470G
+---------------------------------
+Searching for directories starting with hash prefix: 53/ceb9a2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/53/ceb9a26ffcb3892c46705f6ec6d582 to hash prefix 53/ceb9a2 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/53/ceb9a26ffcb3892c46705f6ec6d582
+Sample: HG008-ONT-TO
+Usage: 262M
+Running Total (Sample): 471G
+---------------------------------
+Searching for directories starting with hash prefix: 9b/d9565f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9b/d9565f669b32a18e9761e6a0ef2c4e to hash prefix 9b/d9565f (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9b/d9565f669b32a18e9761e6a0ef2c4e
+Sample: HG008-ONT-TO
+Usage: 311M
+Running Total (Sample): 471G
+---------------------------------
+Searching for directories starting with hash prefix: d1/1f8760
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d1/1f876068bb4024655cb37ff03bc44c to hash prefix d1/1f8760 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d1/1f876068bb4024655cb37ff03bc44c
+Sample: HG008-ONT-TO
+Usage: 91M
+Running Total (Sample): 471G
+---------------------------------
+Searching for directories starting with hash prefix: a0/f602f1
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/f602f196670dc2d0965c35124ac97d to hash prefix a0/f602f1 (sample: HG008-ONT-TO)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/f602f196670dc2d0965c35124ac97d
+Sample: HG008-ONT-TO
+Usage: 7.2G
+Running Total (Sample): 478G
+---------------------------------
+Processing sample: G1000_alleles_hg38.zip
+---------------------------------
+Searching for directories starting with hash prefix: ad/c10c9a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ad/c10c9a25508ea8e435a2c05dc6a99f to hash prefix ad/c10c9a (sample: G1000_alleles_hg38.zip)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ad/c10c9a25508ea8e435a2c05dc6a99f
+Sample: G1000_alleles_hg38.zip
+Usage: 30M
+Running Total (Sample): 30M
+---------------------------------
+Processing sample: G1000_loci_hg38.zip
+---------------------------------
+Searching for directories starting with hash prefix: ec/5631ef
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ec/5631efcb71bfc2731370f7fbbf58e3 to hash prefix ec/5631ef (sample: G1000_loci_hg38.zip)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ec/5631efcb71bfc2731370f7fbbf58e3
+Sample: G1000_loci_hg38.zip
+Usage: 34M
+Running Total (Sample): 34M
+---------------------------------
+Processing sample: r1041_e82_400bps_sup_v420.tar.gz
+---------------------------------
+Searching for directories starting with hash prefix: 5a/2081b8
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5a/2081b8da077656bba9ff08f348a563 to hash prefix 5a/2081b8 (sample: r1041_e82_400bps_sup_v420.tar.gz)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5a/2081b8da077656bba9ff08f348a563
+Sample: r1041_e82_400bps_sup_v420.tar.gz
+Usage: 78M
+Running Total (Sample): 78M
+---------------------------------
+Processing sample: HG008-PB
+---------------------------------
+Searching for directories starting with hash prefix: 03/9270aa
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/9270aa9c18313575eb82c2332fdbaf to hash prefix 03/9270aa (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/03/9270aa9c18313575eb82c2332fdbaf
+Sample: HG008-PB
+Usage: 21K
+Running Total (Sample): 21K
+---------------------------------
+Searching for directories starting with hash prefix: d3/4cf679
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d3/4cf679a487c1a5bf0721661b4959d3 to hash prefix d3/4cf679 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d3/4cf679a487c1a5bf0721661b4959d3
+Sample: HG008-PB
+Usage: 21K
+Running Total (Sample): 41K
+---------------------------------
+Searching for directories starting with hash prefix: a6/5e3dd5
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/5e3dd53525aea9ad7cc6a51c8ead2a to hash prefix a6/5e3dd5 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a6/5e3dd53525aea9ad7cc6a51c8ead2a
+Sample: HG008-PB
+Usage: 20K
+Running Total (Sample): 61K
+---------------------------------
+Searching for directories starting with hash prefix: c0/e6d52e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/e6d52ef136ea4713589e74c0605374 to hash prefix c0/e6d52e (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/e6d52ef136ea4713589e74c0605374
+Sample: HG008-PB
+Usage: 20K
+Running Total (Sample): 80K
+---------------------------------
+Searching for directories starting with hash prefix: a0/37c93c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/37c93ce1e931e6f11bd6bb19dc4693 to hash prefix a0/37c93c (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/a0/37c93ce1e931e6f11bd6bb19dc4693
+Sample: HG008-PB
+Usage: 49G
+Running Total (Sample): 49G
+---------------------------------
+Searching for directories starting with hash prefix: b0/7f05dc
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/7f05dc90861c62bc52168d239d2dad to hash prefix b0/7f05dc (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b0/7f05dc90861c62bc52168d239d2dad
+Sample: HG008-PB
+Usage: 109K
+Running Total (Sample): 49G
+---------------------------------
+Searching for directories starting with hash prefix: f3/145d19
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f3/145d196160b0471313725b42ce4ef8 to hash prefix f3/145d19 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/f3/145d196160b0471313725b42ce4ef8
+Sample: HG008-PB
+Usage: 2.7M
+Running Total (Sample): 49G
+---------------------------------
+Searching for directories starting with hash prefix: ef/59e73c
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/59e73ce0b5fb8499d4360eda12dd35 to hash prefix ef/59e73c (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/59e73ce0b5fb8499d4360eda12dd35
+Sample: HG008-PB
+Usage: 21K
+Running Total (Sample): 49G
+---------------------------------
+Searching for directories starting with hash prefix: 8e/c57a30
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8e/c57a307470325346053e96837223d5 to hash prefix 8e/c57a30 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8e/c57a307470325346053e96837223d5
+Sample: HG008-PB
+Usage: 20K
+Running Total (Sample): 49G
+---------------------------------
+Searching for directories starting with hash prefix: dc/132840
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/dc/132840aff21d77a8821c6d069922d9 to hash prefix dc/132840 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/dc/132840aff21d77a8821c6d069922d9
+Sample: HG008-PB
+Usage: 58G
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: 68/52cf51
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/52cf517a8f242cbeb3163946f9b22f to hash prefix 68/52cf51 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/68/52cf517a8f242cbeb3163946f9b22f
+Sample: HG008-PB
+Usage: 109K
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: d8/809415
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d8/809415d714d28608f640c19029331b to hash prefix d8/809415 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d8/809415d714d28608f640c19029331b
+Sample: HG008-PB
+Usage: 2.9M
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: fb/fbc5df
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/fb/fbc5df3ca34affa633a3868939730b to hash prefix fb/fbc5df (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/fb/fbc5df3ca34affa633a3868939730b
+Sample: HG008-PB
+Usage: 21K
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: 16/5b7ebf
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/16/5b7ebfe2f7035bb6f19bf8cb1aa316 to hash prefix 16/5b7ebf (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/16/5b7ebfe2f7035bb6f19bf8cb1aa316
+Sample: HG008-PB
+Usage: 20K
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: 04/c5f11d
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/04/c5f11d1d148e545764754d98699aba to hash prefix 04/c5f11d (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/04/c5f11d1d148e545764754d98699aba
+Sample: HG008-PB
+Usage: 15M
+Running Total (Sample): 107G
+---------------------------------
+Searching for directories starting with hash prefix: e2/727487
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/727487101874c979820aacf4923416 to hash prefix e2/727487 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/e2/727487101874c979820aacf4923416
+Sample: HG008-PB
+Usage: 1.7G
+Running Total (Sample): 109G
+---------------------------------
+Searching for directories starting with hash prefix: 72/cedf71
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/72/cedf71804cea83b359fbb09399cb03 to hash prefix 72/cedf71 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/72/cedf71804cea83b359fbb09399cb03
+Sample: HG008-PB
+Usage: 73M
+Running Total (Sample): 109G
+---------------------------------
+Searching for directories starting with hash prefix: 8a/3a48c2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8a/3a48c2aabe6f6df97f832d4bc67fd6 to hash prefix 8a/3a48c2 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/8a/3a48c2aabe6f6df97f832d4bc67fd6
+Sample: HG008-PB
+Usage: 15M
+Running Total (Sample): 109G
+---------------------------------
+Searching for directories starting with hash prefix: 9d/51656b
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9d/51656b5a9a5a50ee92c4e5d12027fe to hash prefix 9d/51656b (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/9d/51656b5a9a5a50ee92c4e5d12027fe
+Sample: HG008-PB
+Usage: 53G
+Running Total (Sample): 161G
+---------------------------------
+Searching for directories starting with hash prefix: 41/edad01
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/41/edad016621224078bdad0ab3f8d4c7 to hash prefix 41/edad01 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/41/edad016621224078bdad0ab3f8d4c7
+Sample: HG008-PB
+Usage: 13M
+Running Total (Sample): 161G
+---------------------------------
+Searching for directories starting with hash prefix: 7a/9647aa
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/9647aa2740094b60076e169ee6b288 to hash prefix 7a/9647aa (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/7a/9647aa2740094b60076e169ee6b288
+Sample: HG008-PB
+Usage: 63G
+Running Total (Sample): 223G
+---------------------------------
+Searching for directories starting with hash prefix: 97/6f756f
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/97/6f756f6edfd23dddb6236f01f60afe to hash prefix 97/6f756f (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/97/6f756f6edfd23dddb6236f01f60afe
+Sample: HG008-PB
+Usage: 13M
+Running Total (Sample): 223G
+---------------------------------
+Searching for directories starting with hash prefix: ef/beb36e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/beb36e87fbc6d754a44df52f4413d9 to hash prefix ef/beb36e (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ef/beb36e87fbc6d754a44df52f4413d9
+Sample: HG008-PB
+Usage: 455M
+Running Total (Sample): 224G
+---------------------------------
+Searching for directories starting with hash prefix: 76/3fcd87
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/76/3fcd876c5e7cdb77f550e25f0d3920 to hash prefix 76/3fcd87 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/76/3fcd876c5e7cdb77f550e25f0d3920
+Sample: HG008-PB
+Usage: 207M
+Running Total (Sample): 224G
+---------------------------------
+Searching for directories starting with hash prefix: c0/97bd2e
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/97bd2e41d4a3bc8382a92f433c2c8e to hash prefix c0/97bd2e (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/c0/97bd2e41d4a3bc8382a92f433c2c8e
+Sample: HG008-PB
+Usage: 77M
+Running Total (Sample): 224G
+---------------------------------
+Searching for directories starting with hash prefix: b8/60a6c7
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b8/60a6c714df789f7ab0933937648653 to hash prefix b8/60a6c7 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/b8/60a6c714df789f7ab0933937648653
+Sample: HG008-PB
+Usage: 3.5G
+Running Total (Sample): 227G
+---------------------------------
+Searching for directories starting with hash prefix: ba/b8af5a
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ba/b8af5a9d626d05e5ab7f79e499fda2 to hash prefix ba/b8af5a (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/ba/b8af5a9d626d05e5ab7f79e499fda2
+Sample: HG008-PB
+Usage: 3.3M
+Running Total (Sample): 227G
+---------------------------------
+Searching for directories starting with hash prefix: 86/df4469
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/86/df44692555c8f42887a16ff7c0c02d to hash prefix 86/df4469 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/86/df44692555c8f42887a16ff7c0c02d
+Sample: HG008-PB
+Usage: 3.3M
+Running Total (Sample): 227G
+---------------------------------
+Searching for directories starting with hash prefix: 5f/aa3da2
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5f/aa3da2f7a8d9745c2e118b819d9d39 to hash prefix 5f/aa3da2 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/5f/aa3da2f7a8d9745c2e118b819d9d39
+Sample: HG008-PB
+Usage: 171M
+Running Total (Sample): 228G
+---------------------------------
+Searching for directories starting with hash prefix: d6/b3af18
+Matched directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d6/b3af18eb73dc9c073b04252845d8e8 to hash prefix d6/b3af18 (sample: HG008-PB)
+Directory: /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/data/work/d6/b3af18eb73dc9c073b04252845d8e8
+Sample: HG008-PB
+Usage: 11G
+Running Total (Sample): 238G
+---------------------------------
+Final Summary:
+Sample: hifi_revio.tar.gz, Total Disk Usage: 78M
+Sample: CCS15-ONT-TO, Total Disk Usage: 452G
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0.tar.gz, Total Disk Usage: 78M
+Sample: CCS15-PB, Total Disk Usage: 607G
+Sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0.tar.gz, Total Disk Usage: 78M
+Sample: COLO829-ONT, Total Disk Usage: 562G
+Sample: COLO829-PB, Total Disk Usage: 270G
+Sample: Homo_sapiens_assembly38_masked_noALT.fasta, Total Disk Usage: 140K
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0, Total Disk Usage: 72M
+Sample: HG008-ONT, Total Disk Usage: 508G
+Sample: dna_r10.4.1_e8.2_400bps_sup@v5.2.0, Total Disk Usage: 72M
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.2.0, Total Disk Usage: 72M
+Sample: CCS15-ONT, Total Disk Usage: 842G
+Sample: CCS15-PB-TO, Total Disk Usage: 377G
+Sample: hifi_revio, Total Disk Usage: 61M
+Sample: COLO829-PB-TO, Total Disk Usage: 197G
+Sample: dna_r10.4.1_e8.2_400bps_sup@v4.3.0.tar.gz, Total Disk Usage: 78M
+Sample: HG008-PB-TO, Total Disk Usage: 193G
+Sample: COLO829-ONT-TO, Total Disk Usage: 357G
+Sample: r1041_e82_400bps_sup_v420, Total Disk Usage: 72M
+Sample: G1000_alleles_hg38.zip, Total Disk Usage: 30M
+Sample: HG008-ONT-TO, Total Disk Usage: 478G
+Sample: G1000_loci_hg38.zip, Total Disk Usage: 34M
+Sample: HG008-PB, Total Disk Usage: 238G
+Sample: r1041_e82_400bps_sup_v420.tar.gz, Total Disk Usage: 78M
+---------------------------------
+Grand Total (Overall Disk Usage): 5.0T
