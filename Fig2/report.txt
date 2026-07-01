@@ -1,0 +1,10 @@
+== Per-sample aligned QC (Fig. 2A; from qc_metrics_summary.tsv) ==
+N samples: 12
+Median aligned data yield: 116.16 Gb (range: [39.50; 181.42])
+Median mean coverage: 37.41X (range: [12.72; 58.41])
+Median N50 read length: 16,901 bp (range: [12,748; 35,084])
+
+== Per-read fiber-seq medians (Fig. 2B; CCS15 only) ==
+CCS15 PacBio: median read length 14,066 bp; per read median 1,078 6mA and 70 5mC calls; 66 nucleosomes
+CCS15 ONT:    median read length 8,053 bp; per read median 262 6mA and 54 5mC calls; 35 nucleosomes
+

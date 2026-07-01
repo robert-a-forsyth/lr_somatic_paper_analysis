@@ -1,0 +1,13 @@
+Sample Name	Tumor input BAM size	Normal input BAM size	Work Directory Disk Usage	Output Directory Disk Usage
+CCS15-ONT (paired)	67.75 GB	94.21 GB	1.55 TB	341.83 GB
+CCS15-ONT (tumor-only)	67.75 GB	N/A	916.99 GB	152.67 GB
+CCS15-PacBio (paired)	319.40 GB	304.07 GB	890.84 GB	225.60 GB
+CCS15-PacBio (tumor-only)	319.40 GB	N/A	604.83 GB	116.14 GB
+COLO829-ONT (paired)	136.51 GB	166.83 GB	1.31 TB	416.02 GB
+COLO829-ONT (tumor-only)	136.51 GB	N/A	836.68 GB	187.61 GB
+COLO829-PacBio (paired)	62.55 GB	57.10 GB	425.28 GB	191.09 GB
+COLO829-PacBio (tumor-only)	62.55 GB	N/A	302.03 GB	96.09 GB
+HG008-ONT (paired)	117.10 GB	43.12 GB	969.47 GB	261.70 GB
+HG008-ONT (tumor-only)	117.10 GB	N/A	1007.17 GB	173.16 GB
+HG008-PacBio (paired)	60.03 GB	50.70 GB	345.27 GB	119.86 GB
+HG008-PacBio (tumor-only)	60.03 GB	N/A	281.61 GB	66.42 GB

@@ -1,0 +1,17 @@
+REMOVED RECORDS
+
+***** B_Severus_v1.6 *****
+SINGLETON
+severus_BND1314_1
+severus_BND1316_1
+severus_BND1578_2
+severus_BND1913_1
+severus_BND4310_1
+
+***** B_Severus_v1.6 *****
+SINGLETON
+severus_BND1314_2
+severus_BND1316_2
+severus_BND1578_1
+severus_BND1913_2
+severus_BND4310_2

@@ -1,0 +1,11 @@
+nextflow -log validation.log run IntGenomicsLab/lr_somatic \
+ -dump-hashes \
+ --fasta Homo_sapiens_assembly38_masked_noALT.fasta \
+ -profile vsc_kul_uhasselt,wice \
+ --outdir out \
+ -w work \
+ --input data.csv \
+ --vep_cache_version '113' \
+ --vep_args "--everything --filter_common --per_gene --total_length --offline --format vcf --vcf \
+ --genome GRCh38 \
+ -resume
