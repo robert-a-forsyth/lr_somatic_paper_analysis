@@ -1,0 +1,70 @@
+# Dependencies for lr_somatic_paper_analysis
+#
+# R packages (install via CRAN or Bioconductor):
+#
+# install.packages(c(
+#   "ggplot2", "dplyr", "tidyr", "patchwork",
+#   "rsvg", "xml2", "egg", "tidyverse"
+# ))
+#
+# Figure-specific R requirements:
+#   Fig1: ggplot2, dplyr, patchwork, rsvg, grid, egg
+#   Fig2: ggplot2, dplyr, tidyr, patchwork
+#   Fig3: tidyverse, patchwork
+#   Fig4: ggplot2, dplyr, patchwork
+#   Fig5: xml2, rsvg
+#
+# ──────────────────────────────────────────────────────────────────
+# Conda environments required by shell scripts
+# ──────────────────────────────────────────────────────────────────
+#
+# methylartist  (Fig5/make_figure5_methylation.sh)
+#   conda create -n methylartist python=3.10
+#   conda activate methylartist
+#   pip install methylartist
+#
+# minda  (Fig3/sv_benchmarking/*/benchmarking.sh)
+#   conda create -n minda python=3.10
+#   conda activate minda
+#   pip install git+https://github.com/davidlaewen/minda
+#   # or follow installation instructions at https://github.com/davidlaewen/minda
+#
+# vcf_tsv  (Fig3/sv_benchmarking/*/benchmarking.sh)
+#   conda create -n vcf_tsv python=3.10
+#   conda activate vcf_tsv
+#   pip install vcf2tsvpy
+#
+# ──────────────────────────────────────────────────────────────────
+# Python packages (non-conda scripts)
+# ──────────────────────────────────────────────────────────────────
+#
+# Fig3/sv_benchmarking/add_vaf.py requires:
+#   pip install pysam
+#
+# Table1/disk_usage_report.py uses only Python standard library.
+#
+# ──────────────────────────────────────────────────────────────────
+# System tools required
+# ──────────────────────────────────────────────────────────────────
+#
+#   bcftools   (Fig3/benchmark_colo829.sh, sv_benchmarking scripts)
+#   tabix      (Fig3/sv_benchmarking/HG008/benchmarking.sh)
+#   module load BCFtools  (on VSC/HPC systems, loads bcftools)
+#
+# ──────────────────────────────────────────────────────────────────
+# Large external files (not bundled in repo — user must provide)
+# ──────────────────────────────────────────────────────────────────
+#
+# Reference genome (required by Fig3/benchmark_colo829.sh and Fig5/make_figure5_methylation.sh):
+#   Homo_sapiens_assembly38_masked_noALT.fasta
+#   Place at: Run/data/Homo_sapiens_assembly38_masked_noALT.fasta
+#   Or set env var: REF=/path/to/reference.fasta
+#   Source: GRCh38 (e.g. from GATK resource bundle or downloaded via pipeline)
+#
+# GTF annotation (required by Fig5/make_figure5_methylation.sh):
+#   gencode.v46.basic.annotation.sorted.gtf.gz
+#   Place at: Run/data/gencode.v46.basic.annotation.sorted.gtf.gz
+#   Or set env var: GTF=/path/to/annotation.gtf.gz
+#   Source: https://www.gencodegenes.org/human/release_46.html (basic annotation)
+#   Sort with: bedtools sort -i gencode.v46.basic.annotation.gtf.gz > sorted.gtf
+#              bgzip sorted.gtf && tabix -p gff sorted.gtf.gz

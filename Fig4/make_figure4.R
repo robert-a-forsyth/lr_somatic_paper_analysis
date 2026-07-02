@@ -4,6 +4,8 @@
 #
 # Run from inside Fig4/:  Rscript make_figure4.R
 # Override data root:     DATA_DIR=../Run/out Rscript make_figure4.R
+# Override PURPLE file:   PURPLE_SEG=/path/to/CCS15M.purple.segment.tsv Rscript make_figure4.R
+# By default PURPLE_SEG is read from Fig4/CCS15M.purple.segment.tsv (bundled in repo)
 
 suppressPackageStartupMessages({
   library(ggplot2)
@@ -16,11 +18,11 @@ DATA_DIR <- Sys.getenv("DATA_DIR", "../Run/out")
 
 # ── Path helpers ──────────────────────────────────────────────────────────────
 ascat_path <- function(s) {
-  file.path(DATA_DIR, s, "variants", "ascat", paste0(s, ".segments.txt"))
+  file.path(DATA_DIR, s, "ascat", paste0(s, ".segments.txt"))
 }
 
 wakhan_path <- function(s, hp) {
-  pat  <- file.path(DATA_DIR, s, "variants", "wakhan",
+  pat  <- file.path(DATA_DIR, s, "wakhan", "solution_1", "bed_output",
                     sprintf("%s_*_copynumbers_segments_HP_%d.bed", s, hp))
   hits <- Sys.glob(pat)
   if (length(hits) != 1)
@@ -40,7 +42,7 @@ WAKHAN_ONT_TO1 <- wakhan_path("CCS15-ONT-TO", 1); WAKHAN_ONT_TO2 <- wakhan_path(
 WAKHAN_PB1     <- wakhan_path("CCS15-PB",     1); WAKHAN_PB2     <- wakhan_path("CCS15-PB",     2)
 WAKHAN_PB_TO1  <- wakhan_path("CCS15-PB-TO",  1); WAKHAN_PB_TO2  <- wakhan_path("CCS15-PB-TO",  2)
 
-PURPLE_SEG     <- file.path(DATA_DIR, "CCS15M", "purple", "CCS15M.purple.segment.tsv")
+PURPLE_SEG     <- Sys.getenv("PURPLE_SEG", "CCS15M.purple.segment.tsv")
 
 # ── Output files ──────────────────────────────────────────────────────────────
 OUT_PDF    <- "combined_cnv_plots.pdf"

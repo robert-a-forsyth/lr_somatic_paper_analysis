@@ -16,11 +16,12 @@ set -euo pipefail
 module load BCFtools
 
 # ---- Paths ---------------------------------------------------
-DATA_DIR="../Run/out"
+# DATA_DIR: root of lr_somatic pipeline output (default: ../Run/out)
+# REF: path to reference genome FASTA (must be provided by user; not bundled)
+: "${DATA_DIR:=../Run/out}"
+: "${REF:=../Run/data/Homo_sapiens_assembly38_masked_noALT.fasta}"
 
 TRUTH_RAW="COLO-829--COLO-829BL.snv.indel.final.v6.annotated.final.vcf.gz"
-
-REF="../Run/data/Homo_sapiens_assembly38_masked_noALT.fasta"
 
 WORKDIR="benchmarking"
 OUTTSV="benchmarking_results.tsv"
