@@ -1,0 +1,12 @@
+== All tasks ==
+N tasks: 847
+Median CPUs requested: 6 (range 1 - 48)
+Median peak VMem: 2.40 GB (range 4 MB - 621.20 GB)
+Median fraction of requested CPU used: 69%
+
+== Excluding PacBio CCS15 (CCS15-PB, CCS15-PB-TO) ==
+N tasks: 700
+Median CPUs requested: 6 (range 1 - 48)
+Median peak VMem: 2.40 GB (range 4 MB - 621.20 GB)
+Median fraction of requested CPU used: 69%
+

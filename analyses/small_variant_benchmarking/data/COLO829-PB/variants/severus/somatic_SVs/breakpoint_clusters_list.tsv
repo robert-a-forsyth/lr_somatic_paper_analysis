@@ -1,8 +1,0 @@
-#cluster_id	type	Junction_type	SVs	SV_count	genome_ids	
-severus_0	complex	Interchr:3 	Templated_ins:2 ,BND:1 	3	COLO829-PB_tumor.bam	
-severus_1	complex	HT:1 ,TT:1 ,HH:1 	DEL:1 ,dup_inv_segment:2 	3	COLO829-PB_tumor.bam	
-severus_2	complex	Interchr:1 ,HH:1 	BND:1 ,foldback:1 	2	COLO829-PB_tumor.bam	
-severus_3	complex	HT:1 ,HH:1 ,TT:1 	BND:3 	3	COLO829-PB_tumor.bam	
-severus_4	complex	TT:1 ,HH:1 	dup_inv_segment:2 	2	COLO829-PB_tumor.bam	
-severus_5	complex	HH:1 ,HT:1 	BND:1 ,DEL:1 	2	COLO829-PB_tumor.bam	
-severus_6	complex	TT:1 ,HH:1 	foldback:2 	2	COLO829-PB_tumor.bam	

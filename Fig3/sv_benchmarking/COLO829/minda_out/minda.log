@@ -1,0 +1,90 @@
+[2025-12-02 18:26:24] root: INFO: cmd: /staging/leuven/stg_00096/home/rforsyth/software/minda/minda.py truthset --base /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/severus_files/variant_calls_and_benchmarks/truthsets_beds/truthset_somaticSVs_COLO829_hg38lifted_chr_alt_vaf.vcf.gz --vcfs /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/severus_files/variant_calls_and_benchmarks/COLO829/vaf_vcfs/severus_pb.vcf.gz /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/COLO829/ONT_vaf.vcf.gz /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/COLO829/ONT_TO_vaf.vcf.gz /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/COLO829/PB_vaf.vcf.gz /staging/leuven/stg_00096/home/rforsyth/LRSomatic/CCS15_LRSomatic_Testing/gr38_CCS15/sv_benchmarking/COLO829/PB_TO_vaf.vcf.gz --min_size 50 --tolerance 500 --out_dir minda_out --vaf 0.1
+[2025-12-02 18:26:24] root: INFO: MindaV0.0.2
+[2025-12-02 18:26:25] root: INFO: DECOMPOSING A_Severus_v1.2 RECORDS...
+[2025-12-02 18:26:25] root: INFO: Original number of records: 126
+[2025-12-02 18:26:25] root: INFO: Number of records after filtering by FILTER column: 126
+[2025-12-02 18:26:26] root: INFO: Number of unique indices: 89
+[2025-12-02 18:26:26] root: INFO: 88 paired records and 38 unpaired records found...
+[2025-12-02 18:26:26] root: INFO: Number of paired records paired by ALT column: 44 44
+[2025-12-02 18:26:26] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:26:26] root: INFO: Number of unpaired records paired by INFO column: 38 38
+[2025-12-02 18:26:26] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:26:26] root: INFO: Number of decomposed records after pairing: 82 82
+[2025-12-02 18:26:26] root: INFO: Number of records after size filtering: 72 72
+[2025-12-02 18:26:26] root: INFO: Number of records after VAF filtering: 72 72
+[2025-12-02 18:26:26] root: INFO: Total number of decomposed records: 72 72
+[2025-12-02 18:26:26] root: INFO: DECOMPOSING B_Severus_v1.6 RECORDS...
+[2025-12-02 18:26:26] root: INFO: Original number of records: 129
+[2025-12-02 18:26:26] root: INFO: Number of records after filtering by FILTER column: 129
+[2025-12-02 18:26:29] root: INFO: Number of unique indices: 53
+[2025-12-02 18:26:29] root: INFO: 52 paired records and 77 unpaired records found...
+[2025-12-02 18:26:30] root: INFO: Number of paired records paired by ALT column: 26 26
+[2025-12-02 18:26:30] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:26:30] root: INFO: Number of unpaired records paired by INFO column: 77 77
+[2025-12-02 18:26:30] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:26:30] root: INFO: Number of decomposed records after pairing: 103 103
+[2025-12-02 18:26:30] root: INFO: Number of records after size filtering: 103 103
+[2025-12-02 18:26:30] root: INFO: Number of records after VAF filtering: 75 75
+[2025-12-02 18:26:30] root: INFO: Total number of decomposed records: 75 75
+[2025-12-02 18:26:30] root: INFO: DECOMPOSING C_Severus_v1.6 RECORDS...
+[2025-12-02 18:26:30] root: INFO: Original number of records: 555
+[2025-12-02 18:26:30] root: INFO: Number of records after filtering by FILTER column: 555
+[2025-12-02 18:26:53] root: INFO: Number of unique indices: 189
+[2025-12-02 18:26:53] root: INFO: 188 paired records and 367 unpaired records found...
+[2025-12-02 18:27:03] root: INFO: Number of paired records paired by ALT column: 94 94
+[2025-12-02 18:27:03] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:27:03] root: INFO: Number of unpaired records paired by INFO column: 367 367
+[2025-12-02 18:27:03] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:27:05] root: INFO: Number of decomposed records after pairing: 461 461
+[2025-12-02 18:27:05] root: INFO: Number of records after size filtering: 461 461
+[2025-12-02 18:27:05] root: INFO: Number of records after VAF filtering: 417 417
+[2025-12-02 18:27:05] root: INFO: Total number of decomposed records: 417 417
+[2025-12-02 18:27:05] root: INFO: DECOMPOSING D_Severus_v1.6 RECORDS...
+[2025-12-02 18:27:05] root: INFO: Original number of records: 112
+[2025-12-02 18:27:05] root: INFO: Number of records after filtering by FILTER column: 112
+[2025-12-02 18:27:05] root: INFO: Number of unique indices: 49
+[2025-12-02 18:27:05] root: INFO: 48 paired records and 64 unpaired records found...
+[2025-12-02 18:27:05] root: INFO: Number of paired records paired by ALT column: 24 24
+[2025-12-02 18:27:05] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:27:05] root: INFO: Number of unpaired records paired by INFO column: 64 64
+[2025-12-02 18:27:05] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:27:06] root: INFO: Number of decomposed records after pairing: 88 88
+[2025-12-02 18:27:06] root: INFO: Number of records after size filtering: 88 88
+[2025-12-02 18:27:06] root: INFO: Number of records after VAF filtering: 73 73
+[2025-12-02 18:27:06] root: INFO: Total number of decomposed records: 73 73
+[2025-12-02 18:27:06] root: INFO: DECOMPOSING E_Severus_v1.6 RECORDS...
+[2025-12-02 18:27:06] root: INFO: Original number of records: 342
+[2025-12-02 18:27:06] root: INFO: Number of records after filtering by FILTER column: 342
+[2025-12-02 18:27:13] root: INFO: Number of unique indices: 115
+[2025-12-02 18:27:13] root: INFO: 114 paired records and 228 unpaired records found...
+[2025-12-02 18:27:16] root: INFO: Number of paired records paired by ALT column: 57 57
+[2025-12-02 18:27:16] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:27:16] root: INFO: Number of unpaired records paired by INFO column: 228 228
+[2025-12-02 18:27:16] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:27:17] root: INFO: Number of decomposed records after pairing: 285 285
+[2025-12-02 18:27:17] root: INFO: Number of records after size filtering: 285 285
+[2025-12-02 18:27:17] root: INFO: Number of records after VAF filtering: 268 268
+[2025-12-02 18:27:17] root: INFO: Total number of decomposed records: 268 268
+[2025-12-02 18:27:17] root: INFO: DECOMPOSING F_Unknown source RECORDS...
+[2025-12-02 18:27:17] root: INFO: Original number of records: 134
+[2025-12-02 18:27:17] root: INFO: Number of records after filtering by FILTER column: 134
+[2025-12-02 18:27:17] root: INFO: Number of unique indices: 133
+[2025-12-02 18:27:17] root: INFO: 132 paired records and 2 unpaired records found...
+[2025-12-02 18:27:17] root: INFO: Number of paired records paired by ALT column: 66 66
+[2025-12-02 18:27:17] root: INFO: Number of unpaired records paired by MATE_ID: 0 0
+[2025-12-02 18:27:17] root: INFO: Number of unpaired records paired by INFO column: 2 2
+[2025-12-02 18:27:17] root: INFO: Number of singleton records dropped: 0
+[2025-12-02 18:27:17] root: INFO: Number of decomposed records after pairing: 68 68
+[2025-12-02 18:27:17] root: INFO: Number of records after size filtering: 62 62
+[2025-12-02 18:27:17] root: INFO: Number of records after VAF filtering: 62 62
+[2025-12-02 18:27:17] root: INFO: Total number of decomposed records: 62 62
+[2025-12-02 18:27:17] root: INFO: 
+                  True Positives  False Negatives  ...  Caller Records  Ensemble Records
+A_Severus_v1.2                53                9  ...              72                62
+B_Severus_v1.6                51               11  ...              75                62
+C_Severus_v1.6                49               13  ...             417                62
+D_Severus_v1.6                48               14  ...              73                62
+E_Severus_v1.6                47               15  ...             268                62
+F_Unknown source              62                0  ...              62                62
+
+[6 rows x 8 columns]
